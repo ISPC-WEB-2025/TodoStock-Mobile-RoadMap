@@ -90,13 +90,22 @@ export default function App() {
   const sprintsList = useMemo(() => {
     const set = new Set();
     initialRoadmapData.nodes.forEach((n) => {
-      if (n.sprint) set.add(n.sprint);
-      else if (n.milestone?.title) set.add(n.milestone.title);
+      const s = n.sprint || n.milestone?.title;
+      if (s) {
+        const sm = s.match(/sprint\s*(\d+)/i);
+        if (sm) set.add(`Sprint ${sm[1]}`);
+        else set.add(s);
+      }
     });
     set.add('Sprint 1');
     set.add('Sprint 2');
     set.add('Sprint 3');
-    return Array.from(set).sort();
+    set.add('Sprint 4');
+    return Array.from(set).sort((a, b) => {
+      const numA = parseInt(a.replace(/\D/g, ''), 10) || 999;
+      const numB = parseInt(b.replace(/\D/g, ''), 10) || 999;
+      return numA - numB;
+    });
   }, []);
 
   // 3. Handlers para simulación local
@@ -197,7 +206,12 @@ export default function App() {
 
     // Filtro Sprint
     if (selectedSprint !== 'ALL') {
-      const nodeSprint = node.sprint || node.milestone?.title;
+      const rawSprint = node.sprint || node.milestone?.title;
+      let nodeSprint = rawSprint;
+      if (rawSprint) {
+        const sm = rawSprint.match(/sprint\s*(\d+)/i);
+        if (sm) nodeSprint = `Sprint ${sm[1]}`;
+      }
       if (nodeSprint !== selectedSprint) return false;
     }
 
@@ -314,6 +328,12 @@ export default function App() {
   useEffect(() => {
     setNodes(layoutedElements.nodes);
     setEdges(layoutedElements.edges);
+    const timer = setTimeout(() => {
+      if (reactFlowInstanceRef.current && layoutedElements.nodes.length > 0) {
+        reactFlowInstanceRef.current.fitView({ padding: 0.25, duration: 400 });
+      }
+    }, 60);
+    return () => clearTimeout(timer);
   }, [layoutedElements, setNodes, setEdges]);
 
   const handleFitView = useCallback(() => {

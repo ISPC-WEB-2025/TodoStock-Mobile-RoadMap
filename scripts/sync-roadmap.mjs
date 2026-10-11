@@ -180,7 +180,12 @@ function parseIssueData(issue) {
   // Detectar Sprint / Milestone
   let sprint = null;
   if (issue.milestone && issue.milestone.title) {
-    sprint = issue.milestone.title;
+    const sm = issue.milestone.title.match(/sprint\s*(\d+)/i);
+    if (sm) {
+      sprint = `Sprint ${sm[1]}`;
+    } else {
+      sprint = issue.milestone.title;
+    }
   } else {
     for (const l of issue.labels || []) {
       const lm = (l.name || '').match(/sprint\s*(\d+)/i);
@@ -196,6 +201,8 @@ function parseIssueData(issue) {
       sprint = 'Sprint 1';
     } else if (/sprint\s*3/i.test(title) || /sprint\s*3/i.test(body)) {
       sprint = 'Sprint 3';
+    } else if (/sprint\s*4/i.test(title) || /sprint\s*4/i.test(body)) {
+      sprint = 'Sprint 4';
     } else {
       sprint = 'Sprint 2';
     }

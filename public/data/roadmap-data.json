@@ -1,11 +1,11 @@
 {
   "stats": {
     "total": 131,
-    "open": 90,
-    "closed": 41,
-    "unblockedReady": 56,
+    "open": 89,
+    "closed": 42,
+    "unblockedReady": 55,
     "blocked": 34,
-    "lastUpdated": "2026-10-11T06:55:25.014Z"
+    "lastUpdated": "2026-10-11T09:05:48.145Z"
   },
   "nodes": [
     {
@@ -44,6 +44,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -86,6 +87,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -128,6 +130,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -170,6 +173,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -212,6 +216,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -254,6 +259,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -296,6 +302,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -338,6 +345,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -373,6 +381,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -408,6 +417,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -450,6 +460,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -485,6 +496,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -520,6 +532,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -555,6 +568,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -581,15 +595,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "3",
         "sp": 1,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -655,15 +670,16 @@
         }
       ],
       "meta": {
-        "historia": "US15 (Calidad), sobre el módulo Registro (US07)",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 1,
         "capa": "API externa (Postman)",
-        "enabler": null
+        "enabler": "[ENABLER-QA]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -703,6 +719,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -742,6 +759,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -790,6 +808,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -816,15 +835,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "3",
         "sp": 1,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -851,15 +871,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "3",
         "sp": 1,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -886,15 +907,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "4",
         "sp": 2,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -921,15 +943,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "1",
         "sp": 2,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -956,15 +979,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "2",
         "sp": 1,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -991,15 +1015,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "3",
         "sp": 2,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1045,15 +1070,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "4",
         "sp": 2,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1080,15 +1106,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "3",
         "sp": 2,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1115,15 +1142,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "3",
         "sp": 3,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1150,15 +1178,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Documentación",
         "fase": "1",
         "sp": 1,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1185,15 +1214,16 @@
         }
       ],
       "meta": {
-        "historia": "US17",
+        "historia": "[MGMT]",
         "area": "Gestión",
         "fase": "1",
         "sp": 2,
         "capa": "Documento / gestión",
-        "enabler": null
+        "enabler": "[MGMT]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1224,7 +1254,7 @@
         }
       ],
       "meta": {
-        "historia": "US16",
+        "historia": "US12",
         "area": "Código",
         "fase": "2",
         "sp": 3,
@@ -1233,6 +1263,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1263,7 +1294,7 @@
         }
       ],
       "meta": {
-        "historia": "US16",
+        "historia": "US12",
         "area": "Código",
         "fase": "1",
         "sp": 2,
@@ -1272,6 +1303,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1333,16 +1365,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Documento",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 4",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 4,
+        "title": "Sprint 4"
       }
     },
     {
@@ -1358,12 +1391,6 @@
           "number": 77,
           "tk": "TK92",
           "title": "#TK92 Corregir defecto visual de errores en Login (TC-L-01)"
-        },
-        {
-          "id": "issue-82",
-          "number": 82,
-          "tk": "TK42",
-          "title": "#TK42 Endpoint de contacto y envío real desde ContactoActivity"
         }
       ],
       "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/142",
@@ -1381,7 +1408,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1390,6 +1417,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1416,7 +1444,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1425,6 +1453,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1451,7 +1480,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1460,6 +1489,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1486,7 +1516,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1495,6 +1525,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1521,7 +1552,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1530,6 +1561,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1575,7 +1607,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "4",
         "sp": 2,
@@ -1584,6 +1616,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1621,7 +1654,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1630,6 +1663,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1665,6 +1699,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1695,16 +1730,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "2",
         "sp": 3,
         "capa": "CI",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -1730,7 +1766,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "2",
         "sp": 3,
@@ -1739,6 +1775,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1773,16 +1810,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 4",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 4,
+        "title": "Sprint 4"
       }
     },
     {
@@ -1816,16 +1854,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 4",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 4,
+        "title": "Sprint 4"
       }
     },
     {
@@ -1859,16 +1898,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 4",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 4,
+        "title": "Sprint 4"
       }
     },
     {
@@ -1917,7 +1957,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1926,6 +1966,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -1956,7 +1997,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -1965,6 +2006,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2006,16 +2048,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "4",
         "sp": 3,
         "capa": "Test automatizado (Appium)",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 4",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 4,
+        "title": "Sprint 4"
       }
     },
     {
@@ -2049,16 +2092,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 1,
         "capa": "Test automatizado (UI Automator)",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 4",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 4,
+        "title": "Sprint 4"
       }
     },
     {
@@ -2092,16 +2136,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado (Espresso)",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2142,16 +2187,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado (Espresso)",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2181,7 +2227,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -2190,6 +2236,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2206,12 +2253,6 @@
           "number": 96,
           "tk": "TK43",
           "title": "#TK43 Deploy del backend y baseUrl de release"
-        },
-        {
-          "id": "issue-82",
-          "number": 82,
-          "tk": "TK42",
-          "title": "#TK42 Endpoint de contacto y envío real desde ContactoActivity"
         }
       ],
       "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/122",
@@ -2237,16 +2278,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2293,16 +2335,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 3,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2343,16 +2386,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2386,16 +2430,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 1,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2425,16 +2470,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2464,7 +2510,7 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
@@ -2473,6 +2519,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2507,16 +2554,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2553,16 +2601,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2599,16 +2648,17 @@
         }
       ],
       "meta": {
-        "historia": "US15",
+        "historia": "[ENABLER-QA]",
         "area": "Testing",
         "fase": "3",
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
       },
-      "sprint": "Sprint 2",
+      "sprint": "Sprint 3",
       "milestone": {
-        "title": "Sprint 2"
+        "number": 3,
+        "title": "Sprint 3"
       }
     },
     {
@@ -2647,6 +2697,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2680,15 +2731,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 1,
         "capa": "Caso de prueba",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2722,15 +2774,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 1,
         "capa": "Caso de prueba",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2770,15 +2823,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 1,
         "capa": "Caso de prueba",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2805,15 +2859,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 1,
         "capa": "Caso de prueba",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2853,15 +2908,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 1,
         "capa": "Caso de prueba",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2895,15 +2951,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 2,
         "capa": "Docs",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2930,15 +2987,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "3",
         "sp": 4,
         "capa": "Docs",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -2974,15 +3032,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "1",
         "sp": 3,
         "capa": "Backend + DB",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3016,15 +3075,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "2",
         "sp": 2,
         "capa": "Backend + Frontend",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3051,15 +3111,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "2",
         "sp": 2,
         "capa": "Backend + Frontend",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3095,15 +3156,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "1",
         "sp": 3,
         "capa": "Backend + Frontend",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3130,15 +3192,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "1",
         "sp": 3,
         "capa": "Backend",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3165,15 +3228,16 @@
         }
       ],
       "meta": {
-        "historia": "US14",
+        "historia": "[RNF-SEG]",
         "area": "Ciberseguridad",
         "fase": "1",
         "sp": 3,
         "capa": "Backend",
-        "enabler": null
+        "enabler": "[RNF-SEG]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3209,6 +3273,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3248,15 +3313,16 @@
         }
       ],
       "meta": {
-        "historia": "US12",
+        "historia": "[RELEASE]",
         "area": "Código",
         "fase": "4",
         "sp": 2,
         "capa": "Docs",
-        "enabler": null
+        "enabler": "[RELEASE]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3290,15 +3356,16 @@
         }
       ],
       "meta": {
-        "historia": "US12",
+        "historia": "[RELEASE]",
         "area": "Código",
         "fase": "4",
         "sp": 2,
         "capa": "Build + Docs",
-        "enabler": null
+        "enabler": "[RELEASE]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3325,15 +3392,16 @@
         }
       ],
       "meta": {
-        "historia": "US12",
+        "historia": "[RELEASE]",
         "area": "Código",
         "fase": "1",
         "sp": 3,
         "capa": "Backend + DevOps",
-        "enabler": null
+        "enabler": "[RELEASE]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3360,15 +3428,16 @@
         }
       ],
       "meta": {
-        "historia": "US11",
+        "historia": "[RNF-UX]",
         "area": "Código",
         "fase": "2",
         "sp": 3,
         "capa": "Frontend",
-        "enabler": null
+        "enabler": "[RNF-UX]"
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3404,6 +3473,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3446,6 +3516,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3481,6 +3552,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3523,6 +3595,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3565,6 +3638,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3600,6 +3674,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3635,6 +3710,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3670,6 +3746,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3709,6 +3786,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3744,6 +3822,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3779,6 +3858,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3814,6 +3894,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3822,8 +3903,8 @@
       "number": 82,
       "tk": "TK42",
       "title": "#TK42 Endpoint de contacto y envío real desde ContactoActivity",
-      "state": "OPEN",
-      "status": "UNBLOCKED",
+      "state": "CLOSED",
+      "status": "COMPLETED",
       "blockingParents": [],
       "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/82",
       "assignees": [
@@ -3849,6 +3930,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3888,6 +3970,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3923,6 +4006,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3958,6 +4042,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -3993,6 +4078,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4028,6 +4114,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4074,6 +4161,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4109,6 +4197,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4148,6 +4237,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4187,6 +4277,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4222,6 +4313,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4261,6 +4353,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4296,6 +4389,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4370,6 +4464,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4405,6 +4500,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4440,6 +4536,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4475,6 +4572,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4510,6 +4608,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4545,6 +4644,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4580,6 +4680,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4615,6 +4716,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4650,6 +4752,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4685,6 +4788,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4720,6 +4824,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4755,6 +4860,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4790,6 +4896,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4825,6 +4932,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -4865,6 +4973,7 @@
       },
       "sprint": "Sprint 2",
       "milestone": {
+        "number": 2,
         "title": "Sprint 2"
       }
     },
@@ -5036,7 +5145,8 @@
       },
       "sprint": "Sprint 1",
       "milestone": {
-        "title": "Sprint 1"
+        "number": 1,
+        "title": "Evidencia de Aprendizaje 5 - Sprint 1 (Evidencia 2 de asignaturas generadoras)."
       }
     },
     {
@@ -5075,7 +5185,8 @@
       },
       "sprint": "Sprint 1",
       "milestone": {
-        "title": "Sprint 1"
+        "number": 1,
+        "title": "Evidencia de Aprendizaje 5 - Sprint 1 (Evidencia 2 de asignaturas generadoras)."
       }
     },
     {
@@ -5114,7 +5225,8 @@
       },
       "sprint": "Sprint 1",
       "milestone": {
-        "title": "Sprint 1"
+        "number": 1,
+        "title": "Evidencia de Aprendizaje 5 - Sprint 1 (Evidencia 2 de asignaturas generadoras)."
       }
     },
     {
@@ -5157,7 +5269,8 @@
       },
       "sprint": "Sprint 1",
       "milestone": {
-        "title": "Sprint 1"
+        "number": 1,
+        "title": "Evidencia de Aprendizaje 5 - Sprint 1 (Evidencia 2 de asignaturas generadoras)."
       }
     },
     {
@@ -5200,7 +5313,8 @@
       },
       "sprint": "Sprint 1",
       "milestone": {
-        "title": "Sprint 1"
+        "number": 1,
+        "title": "Evidencia de Aprendizaje 5 - Sprint 1 (Evidencia 2 de asignaturas generadoras)."
       }
     }
   ],
@@ -5514,8 +5628,8 @@
       "source": "issue-82",
       "target": "issue-142",
       "reason": "depends_on_TK42",
-      "status": "inactive",
-      "animated": false
+      "status": "active",
+      "animated": true
     },
     {
       "id": "edge-issue-79->issue-141",
@@ -5730,8 +5844,8 @@
       "source": "issue-82",
       "target": "issue-122",
       "reason": "depends_on_TK42",
-      "status": "inactive",
-      "animated": false
+      "status": "active",
+      "animated": true
     },
     {
       "id": "edge-issue-85->issue-122",
