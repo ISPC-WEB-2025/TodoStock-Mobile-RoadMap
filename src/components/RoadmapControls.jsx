@@ -4,13 +4,16 @@ import {
   Filter,
   User,
   Tag,
-  Sparkles,
   RotateCcw,
   LogOut,
   Maximize2,
   CheckCircle2,
   Play,
   Lock,
+  Eye,
+  EyeOff,
+  GitBranch,
+  Layers,
 } from 'lucide-react';
 
 export default function RoadmapControls({
@@ -25,6 +28,13 @@ export default function RoadmapControls({
   selectedStatus,
   onStatusChange,
   stats,
+  activeTab,
+  onTabChange,
+  hideCompleted,
+  onToggleHideCompleted,
+  independentCount = 0,
+  collapsedCount = 0,
+  onResetCollapsed,
   onResetOverrides,
   onFitView,
   onLogout,
@@ -85,18 +95,31 @@ export default function RoadmapControls({
               className="flex items-center gap-1.5 rounded-lg border border-amber-600/60 bg-amber-950/50 px-2.5 py-1 text-xs font-medium text-amber-300 hover:bg-amber-900/60 transition-colors"
             >
               <RotateCcw className="h-3.5 w-3.5" />
-              Restablecer ({stats.overrideCount})
+              Simulaciones ({stats.overrideCount})
             </button>
           )}
 
-          <button
-            onClick={onFitView}
-            title="Centrar y encuadrar todo el grafo"
-            className="flex items-center gap-1.5 rounded-lg border border-slate-700 bg-slate-800/80 px-2.5 py-1 text-xs font-medium text-slate-300 hover:bg-slate-700 hover:text-white transition-colors"
-          >
-            <Maximize2 className="h-3.5 w-3.5" />
-            Encuadrar
-          </button>
+          {collapsedCount > 0 && (
+            <button
+              onClick={onResetCollapsed}
+              title="Desplegar todas las ramas colapsadas"
+              className="flex items-center gap-1.5 rounded-lg border border-cyan-700/60 bg-cyan-950/50 px-2.5 py-1 text-xs font-medium text-cyan-300 hover:bg-cyan-900/60 transition-colors"
+            >
+              <GitBranch className="h-3.5 w-3.5" />
+              Expandir ramas ({collapsedCount})
+            </button>
+          )}
+
+          {activeTab === 'DAG' && (
+            <button
+              onClick={onFitView}
+              title="Centrar y encuadrar todo el grafo"
+              className="flex items-center gap-1.5 rounded-lg border border-slate-700 bg-slate-800/80 px-2.5 py-1 text-xs font-medium text-slate-300 hover:bg-slate-700 hover:text-white transition-colors"
+            >
+              <Maximize2 className="h-3.5 w-3.5" />
+              Encuadrar
+            </button>
+          )}
 
           <button
             onClick={onLogout}
@@ -108,8 +131,63 @@ export default function RoadmapControls({
         </div>
       </div>
 
+      {/* Fila Intermedia: Pestañas de Vista y Toggle de Completadas */}
+      <div className="flex flex-wrap items-center justify-between gap-3 border-t border-slate-800/70 pt-2.5">
+        {/* Selector de Pestañas */}
+        <div className="flex items-center gap-1.5 rounded-xl bg-slate-950/80 p-1 border border-slate-800">
+          <button
+            type="button"
+            onClick={() => onTabChange('DAG')}
+            className={`flex items-center gap-2 rounded-lg px-3 py-1.5 text-xs font-semibold transition-all ${
+              activeTab === 'DAG'
+                ? 'bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-md shadow-cyan-500/20'
+                : 'text-slate-400 hover:text-white hover:bg-slate-900'
+            }`}
+          >
+            <GitBranch className="h-3.5 w-3.5" />
+            Árboles de Dependencia (DAG)
+          </button>
+          <button
+            type="button"
+            onClick={() => onTabChange('INDEPENDENT')}
+            className={`flex items-center gap-2 rounded-lg px-3 py-1.5 text-xs font-semibold transition-all ${
+              activeTab === 'INDEPENDENT'
+                ? 'bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-md shadow-cyan-500/20'
+                : 'text-slate-400 hover:text-white hover:bg-slate-900'
+            }`}
+          >
+            <Layers className="h-3.5 w-3.5" />
+            Tareas Independientes ({independentCount})
+          </button>
+        </div>
+
+        {/* Toggle para Ocultar / Mostrar Completadas */}
+        <button
+          type="button"
+          onClick={onToggleHideCompleted}
+          title={hideCompleted ? 'Mostrar las tareas cerradas' : 'Ocultar las tareas cerradas para enfocar el trabajo pendiente'}
+          className={`flex items-center gap-2 rounded-xl border px-3 py-1.5 text-xs font-medium transition-all ${
+            hideCompleted
+              ? 'border-emerald-600/50 bg-emerald-950/40 text-emerald-300 hover:bg-emerald-950/70'
+              : 'border-slate-700 bg-slate-800/80 text-slate-300 hover:bg-slate-800'
+          }`}
+        >
+          {hideCompleted ? (
+            <>
+              <EyeOff className="h-3.5 w-3.5 text-emerald-400" />
+              <span>Ocultando cerradas ({stats.closed})</span>
+            </>
+          ) : (
+            <>
+              <Eye className="h-3.5 w-3.5 text-slate-400" />
+              <span>Mostrando cerradas ({stats.closed})</span>
+            </>
+          )}
+        </button>
+      </div>
+
       {/* Fila Inferior: Controles de Búsqueda y Filtros */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5 pt-1">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5 pt-0.5">
         {/* Buscador */}
         <div className="relative">
           <Search className="absolute left-3 top-2.5 h-3.5 w-3.5 text-slate-500" />

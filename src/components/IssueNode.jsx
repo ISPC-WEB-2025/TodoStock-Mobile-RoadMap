@@ -119,6 +119,16 @@ const IssueNode = ({ data, selected }) => {
 
       {/* Meta tags & Labels */}
       <div className="mt-2.5 flex flex-wrap items-center gap-1">
+        {meta.enabler && (
+          <span className="rounded bg-indigo-950/90 px-1.5 py-0.5 text-[10px] font-semibold text-indigo-300 border border-indigo-800/60">
+            {meta.enabler}
+          </span>
+        )}
+        {meta.historia && !meta.enabler && (
+          <span className="rounded bg-blue-950/70 px-1.5 py-0.5 text-[10px] font-mono text-blue-300 border border-blue-800/50">
+            {meta.historia}
+          </span>
+        )}
         {meta.area && (
           <span className="rounded bg-slate-800/80 px-1.5 py-0.5 text-[10px] text-slate-300">
             {meta.area}
@@ -133,6 +143,11 @@ const IssueNode = ({ data, selected }) => {
             {l.name}
           </span>
         ))}
+        {data.isBranchCollapsed && (
+          <span className="rounded bg-amber-950/90 px-1.5 py-0.5 text-[10px] font-medium text-amber-300 border border-amber-800/60">
+            +{dependentChildCount} ocultos
+          </span>
+        )}
       </div>
 
       {/* Footer: Asignado + Desbloquea a + Botón simulación */}
@@ -176,6 +191,29 @@ const IssueNode = ({ data, selected }) => {
           {isCompleted ? 'Reabrir' : 'Simular ✔'}
         </button>
       </div>
+
+      {/* Botón interactivo para colapsar / expandir ramas aguas abajo */}
+      {dependentChildCount > 0 && data.onToggleCollapse && (
+        <button
+          type="button"
+          onClick={(e) => {
+            e.stopPropagation();
+            data.onToggleCollapse(data.id);
+          }}
+          title={
+            data.isBranchCollapsed
+              ? `Expandir rama (${dependentChildCount} dependientes)`
+              : `Colapsar rama (${dependentChildCount} dependientes)`
+          }
+          className={`absolute -right-3 top-1/2 -translate-y-1/2 z-20 flex h-6 w-6 items-center justify-center rounded-full border shadow-lg text-xs font-bold transition-transform hover:scale-110 ${
+            data.isBranchCollapsed
+              ? 'bg-amber-500 border-amber-300 text-slate-950 ring-2 ring-amber-400/40'
+              : 'bg-slate-800 border-slate-600 text-slate-200 hover:bg-slate-700 hover:text-white'
+          }`}
+        >
+          {data.isBranchCollapsed ? '+' : '−'}
+        </button>
+      )}
 
       {/* Source handle para dependencias salientes (Derecha) */}
       <Handle

@@ -25,9 +25,10 @@ async function fetchIssues() {
     console.log(`📡 Consultando issues de ${REPO} mediante GitHub CLI (gh)...`);
     const stdout = execSync(
       `gh issue list --repo ${REPO} --limit 300 --state all --json number,title,state,body,assignees,labels,url,updatedAt`,
-      { encoding: 'utf-8-sig', maxBuffer: 10 * 1024 * 1024 }
+      { encoding: 'utf8', maxBuffer: 15 * 1024 * 1024 }
     );
-    const parsed = JSON.parse(stdout);
+    const clean = stdout.replace(/^\uFEFF/, '').trim();
+    const parsed = JSON.parse(clean);
     if (Array.isArray(parsed) && parsed.length > 0) {
       console.log(`✅ ${parsed.length} issues obtenidas con gh.`);
       fs.writeFileSync(path.join(rootDir, 'raw-issues.json'), JSON.stringify(parsed, null, 2), 'utf-8');
@@ -98,16 +99,16 @@ function parseIssueData(issue) {
   const number = issue.number;
   const state = (issue.state || 'OPEN').toUpperCase();
 
-  // Detectar TK
+  // Excluir notificaciones automáticas de merge a develop (son logs de CI, no tareas)
+  if (title.startsWith('🔀 Merge')) {
+    return null;
+  }
+
+  // Detectar TK estrictamente desde el título para evitar secuestro de identificadores
   let tk = null;
   const titleTkMatch = title.match(/#?(TK0*\d+)/i);
   if (titleTkMatch) {
     tk = normalizeTk(titleTkMatch[1]);
-  } else {
-    const bodyTkMatch = body.match(/#?(TK0*\d+)/i);
-    if (bodyTkMatch) {
-      tk = normalizeTk(bodyTkMatch[1]);
-    }
   }
 
   // Extraer metadata estructurada del body
@@ -117,9 +118,19 @@ function parseIssueData(issue) {
   const spMatch = body.match(/\*\*SP:\*\*\s*(\d+)/i);
   const capaMatch = body.match(/\*\*Capa:\*\*\s*([^\r\n·]+)/i);
 
+  // Detectar Enabler / Épica asociada
+  let enabler = null;
+  const enablerMatch = title.match(/\[(ENABLER-QA|RNF-SEG|RNF-UX|RELEASE|MGMT)[^\]]*\]/i) ||
+                       body.match(/\[(ENABLER-QA|RNF-SEG|RNF-UX|RELEASE|MGMT)[^\]]*\]/i);
+  if (enablerMatch) {
+    enabler = enablerMatch[0];
+  } else if (historiaMatch && historiaMatch[1].trim().toUpperCase() === 'US15') {
+    enabler = '[ENABLER-QA]';
+  }
+
   // Extraer menciones de dependencia
   const rawDepTexts = [];
-  const depRegex = /(?:depende\s+de|bloquead[oa]\s+por|requiere|referencia)[\s:*]+([^\r\n]+)/gi;
+  const depRegex = /(?:depende\s+de|bloquead[oa]\s+por|requiere)[\s:*]+([^\r\n]+)/gi;
   let match;
   while ((match = depRegex.exec(body)) !== null) {
     rawDepTexts.push(match[1]);
@@ -138,6 +149,27 @@ function parseIssueData(issue) {
     // Buscar referencias TKxx
     const tkRefs = depText.match(/TK0*\d+/gi) || [];
     for (const ref of tkRefs) {
+      const normTk = normalizeTk(ref);
+      if (normTk && normTk !== tk) {
+        detectedDeps.push({ type: 'tk', value: normTk });
+      }
+    }
+  }
+
+  // Requerimientos de automatización cubiertos por tests: [AUT-xx], [ACC-xx]
+  const cubreMatch = body.match(/Lo cubre[:*]+\s*(TK0*\d+)/i);
+  if (cubreMatch) {
+    const normTk = normalizeTk(cubreMatch[1]);
+    if (normTk && normTk !== tk) {
+      detectedDeps.push({ type: 'tk', value: normTk });
+    }
+  }
+
+  // Bugs o mejoras con corrección prevista
+  const bugFixMatch = body.match(/(?:Corrección prevista|Relacionada con)[:*]+\s*([^\r\n]+)/i);
+  if (bugFixMatch) {
+    const tks = bugFixMatch[1].match(/TK0*\d+/gi) || [];
+    for (const ref of tks) {
       const normTk = normalizeTk(ref);
       if (normTk && normTk !== tk) {
         detectedDeps.push({ type: 'tk', value: normTk });
@@ -167,7 +199,8 @@ function parseIssueData(issue) {
       area: areaMatch ? areaMatch[1].trim() : null,
       fase: faseMatch ? faseMatch[1].trim() : null,
       sp: spMatch ? parseInt(spMatch[1], 10) : null,
-      capa: capaMatch ? capaMatch[1].trim() : null
+      capa: capaMatch ? capaMatch[1].trim() : null,
+      enabler
     },
     rawDeps: detectedDeps
   };
@@ -175,7 +208,7 @@ function parseIssueData(issue) {
 
 async function run() {
   const rawList = await fetchIssues();
-  const parsedIssues = rawList.map(parseIssueData);
+  const parsedIssues = rawList.map(parseIssueData).filter(Boolean);
 
   // Mapas para resolver dependencias rápidamente
   const issueByNumber = new Map();
@@ -246,6 +279,17 @@ async function run() {
     if (parent && child) {
       addEdge(parent.id, child.id, 'manual_override');
     }
+  }
+
+  // 3. Conectar entregables finales de QA hacia el hito [ENABLER-QA] #69
+  const enabler69 = issueByNumber.get(69);
+  if (enabler69) {
+    const tk84 = issueByTk.get('TK84'); // Wiki Testing.md (integra pipeline JaCoCo, Newman y matriz)
+    const tk96 = issueByTk.get('TK96'); // Informe de Accesibilidad
+    const tk80 = issueByTk.get('TK80'); // Plan de pruebas
+    if (tk84) addEdge(tk84.id, enabler69.id, 'enabler_milestone');
+    if (tk96) addEdge(tk96.id, enabler69.id, 'enabler_milestone');
+    if (tk80) addEdge(tk80.id, enabler69.id, 'enabler_milestone');
   }
 
   // 3. Calcular estados de Nodos y Aristas (Topología)
