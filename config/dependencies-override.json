@@ -1,0 +1,11 @@
+{
+  "description": "Mapeo manual o complementario de dependencias entre issues y TKs de TodoStock-AppMovil",
+  "manualEdges": [],
+  "modules": [
+    { "id": "auth", "name": "Autenticación y Seguridad", "color": "#8b5cf6" },
+    { "id": "testing", "name": "Testing y Automatización", "color": "#f97316" },
+    { "id": "stock", "name": "Gestión de Stock e Inventario", "color": "#06b6d4" },
+    { "id": "sucursales", "name": "Sucursales y Movimientos", "color": "#10b981" },
+    { "id": "core", "name": "Navegación y Core App", "color": "#3b82f6" }
+  ]
+}

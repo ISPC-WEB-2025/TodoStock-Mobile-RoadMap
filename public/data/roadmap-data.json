@@ -1,0 +1,6619 @@
+{
+  "stats": {
+    "total": 169,
+    "open": 91,
+    "closed": 78,
+    "unblockedReady": 43,
+    "blocked": 48,
+    "lastUpdated": "2026-10-11T01:15:16.004Z"
+  },
+  "nodes": [
+    {
+      "id": "issue-231",
+      "number": 231,
+      "tk": "TK94",
+      "title": "­ƒöÇ Merge a develop por virginia-garcia",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/231",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-229",
+      "number": 229,
+      "tk": "TK16",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/229",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-226",
+      "number": 226,
+      "tk": "TK34",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/226",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-224",
+      "number": 224,
+      "tk": "TK48",
+      "title": "­ƒöÇ Merge a develop por virginia-garcia",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/224",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-223",
+      "number": 223,
+      "tk": "TK52",
+      "title": "­ƒöÇ Merge a develop por virginia-garcia",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/223",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-221",
+      "number": 221,
+      "tk": "TK34",
+      "title": "[MEJORA] Registro: exigir edad m├¡nima de 18 a├▒os en la fecha de nacimiento",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/221",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "#a2eeef"
+        },
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-220",
+      "number": 220,
+      "tk": null,
+      "title": "­ƒöÇ Merge a develop por virginia-garcia",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/220",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-217",
+      "number": 217,
+      "tk": "TK12",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/217",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-216",
+      "number": 216,
+      "tk": "TK52",
+      "title": "­ƒöÇ Merge a develop por virginia-garcia",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/216",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-213",
+      "number": 213,
+      "tk": "TK105",
+      "title": "­ƒöÇ Merge a develop por AylenBL8",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/213",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-211",
+      "number": 211,
+      "tk": "TK75",
+      "title": "[ACC-02] Accessibility Scanner en las 3 pantallas principales",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/211",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-210",
+      "number": 210,
+      "tk": "TK76",
+      "title": "[ACC-01] AccessibilityChecks.enable() en el test de Espresso",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/210",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-209",
+      "number": 209,
+      "tk": "TK70",
+      "title": "[AUT-UI-03] Sin Thread.sleep() en los tests de Espresso",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/209",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-208",
+      "number": 208,
+      "tk": "TK70",
+      "title": "[AUT-UI-02] Al menos un Screen Object en el test de Espresso",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/208",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-207",
+      "number": 207,
+      "tk": "TK70",
+      "title": "[AUT-UI-01] Flujo cr├¡tico con Espresso en androidTest con ActivityScenarioRule",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/207",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-206",
+      "number": 206,
+      "tk": "TK64",
+      "title": "[AUT-NET-02] Respuestas 200 y 500 del repositorio con MockWebServer",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/206",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-205",
+      "number": 205,
+      "tk": "TK64",
+      "title": "[AUT-NET-01] Repositorio probado contra MockWebServer, sin red real",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/205",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-204",
+      "number": 204,
+      "tk": "TK60",
+      "title": "[AUT-UNIT-04] Patr├│n AAA y nombres condicion_resultadoEsperado en todos los tests",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/204",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-203",
+      "number": 203,
+      "tk": "TK60",
+      "title": "[AUT-UNIT-03] Tests de un validador: v├ílido, vac├¡o, en el l├¡mite y fuera de formato",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/203",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-202",
+      "number": 202,
+      "tk": "TK62",
+      "title": "[AUT-UNIT-02] Tests de un ViewModel con el repositorio simulado: caso feliz y caso de error",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/202",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-201",
+      "number": 201,
+      "tk": "TK60",
+      "title": "[AUT-UNIT-01] Tests unitarios en app/src/test/java, en el mismo paquete que la clase que prueban",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/201",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-200",
+      "number": 200,
+      "tk": null,
+      "title": "[MIN-AUT] M├¡nimos de automatizaci├│n Sprint 2",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/200",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-199",
+      "number": 199,
+      "tk": "TK60",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/199",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-197",
+      "number": 197,
+      "tk": "TK112",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/197",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-195",
+      "number": 195,
+      "tk": "TK90",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/195",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-193",
+      "number": 193,
+      "tk": "TK112",
+      "title": "TK112 - AuthRepository + LoginViewModel (c├│digo para los tests del Sprint 2)",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-69",
+          "number": 69,
+          "tk": "TK60",
+          "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad"
+        },
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/193",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-192",
+      "number": 192,
+      "tk": "TK27",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/192",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-190",
+      "number": 190,
+      "tk": "TK05",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/190",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-188",
+      "number": 188,
+      "tk": "TK27",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/188",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-186",
+      "number": 186,
+      "tk": "TK111",
+      "title": "#TK111 Gu├¡a de Aclaraciones para Evaluaci├│n Docente",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/186",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-185",
+      "number": 185,
+      "tk": "TK34",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/185",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-184",
+      "number": 184,
+      "tk": "TK42",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/184",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-183",
+      "number": 183,
+      "tk": "TK27",
+      "title": "[BUG] Movimientos: la pantalla se cierra al ingresar una cantidad muy grande",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/183",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "bug",
+          "color": "#d73a4a"
+        },
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-180",
+      "number": 180,
+      "tk": "TK93",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/180",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-176",
+      "number": 176,
+      "tk": "TK60",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/176",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-174",
+      "number": 174,
+      "tk": "TK60",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/174",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-173",
+      "number": 173,
+      "tk": "TK34",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/173",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-170",
+      "number": 170,
+      "tk": "TK110",
+      "title": "#TK110 Casos de prueba de API y reporte de bugs del endpoint de registro",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/170",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15 (Calidad), sobre el m├│dulo Registro (US07)",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "API externa (Postman) ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-169",
+      "number": 169,
+      "tk": "TK35",
+      "title": "[BUG] El registro acepta un DNI con formato inv├ílido (POST /api/usuarios/registro/)",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/169",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "bug",
+          "color": "#d73a4a"
+        },
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-168",
+      "number": 168,
+      "tk": "TK35",
+      "title": "[BUG] El registro devuelve error 500 con DNI repetido (POST /api/usuarios/registro/)",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/168",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "bug",
+          "color": "#d73a4a"
+        },
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-167",
+      "number": 167,
+      "tk": "TK35",
+      "title": "[BUG] El registro acepta contrase├▒as d├®biles (POST /api/usuarios/registro/)",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/167",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        },
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "bug",
+          "color": "#d73a4a"
+        },
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        },
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-166",
+      "number": 166,
+      "tk": null,
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/166",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-164",
+      "number": 164,
+      "tk": "TK106",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/164",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-163",
+      "number": 163,
+      "tk": "TK90",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/163",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-160",
+      "number": 160,
+      "tk": "TK90",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/160",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-156",
+      "number": 156,
+      "tk": "TK108",
+      "title": "#TK108 Commit en main con el backlog y las plantillas de Issues y PR",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/156",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-155",
+      "number": 155,
+      "tk": "TK107",
+      "title": "#TK107 Guion y coordinaci├│n del video demo grupal",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/155",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-154",
+      "number": 154,
+      "tk": "TK106",
+      "title": "#TK106 README del repositorio actualizado",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-68",
+          "number": 68,
+          "tk": "TK45",
+          "title": "[RNF-SEG] Hardening de seguridad, protecci├│n de sesiones y datos sensibles"
+        },
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/154",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "4",
+        "sp": 2,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 4"
+      }
+    },
+    {
+      "id": "issue-153",
+      "number": 153,
+      "tk": "TK105",
+      "title": "#TK105 Legislaci├│n: t├®rminos y condiciones, pol├¡tica de privacidad y secci├│n de la Wiki",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/153",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-152",
+      "number": 152,
+      "tk": "TK104",
+      "title": "#TK104 Product Backlog de la Wiki alineado con este backlog",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/152",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "2",
+        "sp": 1,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-151",
+      "number": 151,
+      "tk": "TK103",
+      "title": "#TK103 Wiki: avances individuales, de equipo y enlaces a aplicaciones externas",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/151",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-150",
+      "number": 150,
+      "tk": "TK102",
+      "title": "#TK102 Diagrama de navegabilidad y Anexo II con capturas de las pantallas nuevas",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-95",
+          "number": 95,
+          "tk": "TK41",
+          "title": "#TK41 Layouts landscape y tablet, y estado al rotar"
+        },
+        {
+          "id": "issue-64",
+          "number": 64,
+          "tk": "TK40",
+          "title": "#US10 Como usuario quiero ver una pantalla de ayuda con una imagen o un video para aprender a usar la app."
+        },
+        {
+          "id": "issue-91",
+          "number": 91,
+          "tk": "TK109",
+          "title": "#TK109 Cargar usuario y aprobar registros pendientes (Administrador)"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/150",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "4",
+        "sp": 2,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 4"
+      }
+    },
+    {
+      "id": "issue-149",
+      "number": 149,
+      "tk": "TK101",
+      "title": "#TK101 IEEE830 actualizado con los requerimientos del Sprint 2",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/149",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-148",
+      "number": 148,
+      "tk": "TK100",
+      "title": "#TK100 Registro de las 4 ceremonias del Sprint 2 en la Wiki",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/148",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "3",
+        "sp": 3,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-147",
+      "number": 147,
+      "tk": "TK99",
+      "title": "#TK99 Gesti├│n de bugs",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-71",
+          "number": 71,
+          "tk": "TK98",
+          "title": "[MGMT] Documentaci├│n del Sprint 2, registro de ceremonias y actualizaci├│n de Wiki"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/147",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "1",
+        "sp": 1,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-146",
+      "number": 146,
+      "tk": "TK98",
+      "title": "#TK98 Milestone Sprint 2, etiquetas e Issues en GitHub",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/146",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "gestion",
+          "color": "#b440eb"
+        }
+      ],
+      "meta": {
+        "historia": "US17",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Documento / gesti├│n ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-145",
+      "number": 145,
+      "tk": "TK95",
+      "title": "#TK95 PerfilActivity: ver y editar mis datos",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-70",
+          "number": 70,
+          "tk": "TK94",
+          "title": "#US12 Como usuario (Administrador o Empleado) quiero ver y editar mis datos personales para mantener mi informaci├│n actualizada."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/145",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US16",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-144",
+      "number": 144,
+      "tk": "TK94",
+      "title": "#TK94 API del perfil propio",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/144",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US16",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Backend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-143",
+      "number": 143,
+      "tk": "TK96",
+      "title": "#TK96 Informe de Accesibilidad",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-128",
+          "number": 128,
+          "tk": "TK75",
+          "title": "#TK75 [ACC-01] Auditor├¡a con Accessibility Scanner"
+        },
+        {
+          "id": "issue-129",
+          "number": 129,
+          "tk": "TK76",
+          "title": "#TK76 [ACC-02] AccessibilityChecks.enable() en los tests Espresso"
+        },
+        {
+          "id": "issue-130",
+          "number": 130,
+          "tk": "TK77",
+          "title": "#TK77 [ACC-03] TalkBack: un flujo cr├¡tico completo"
+        },
+        {
+          "id": "issue-131",
+          "number": 131,
+          "tk": "TK78",
+          "title": "#TK78 [ACC-04] Etiquetas y ├íreas t├íctiles de 48 ├ù 48 dp"
+        },
+        {
+          "id": "issue-132",
+          "number": 132,
+          "tk": "TK79",
+          "title": "#TK79 [ACC-05] Contraste, tama├▒o de texto y errores anunciados"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/143",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "accesibilidad",
+          "color": "#e8d6c6"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Documento ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-142",
+      "number": 142,
+      "tk": "TK89",
+      "title": "#TK89 Ejecuci├│n de casos: TC-L-01, TC-L-02, TC-CP-01 y TC-C-01",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-77",
+          "number": 77,
+          "tk": "TK92",
+          "title": "#TK92 Corregir defecto visual de errores en Login (TC-L-01)"
+        },
+        {
+          "id": "issue-82",
+          "number": 82,
+          "tk": "TK42",
+          "title": "#TK42 Endpoint de contacto y env├¡o real desde ContactoActivity"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/142",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Ejecuci├│n manual ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-141",
+      "number": 141,
+      "tk": "TK88",
+      "title": "#TK88 Ejecuci├│n de casos: TC-STK-02, TC-MOV-004, TC-MOV-005 y TC-REG-02",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-57",
+          "number": 57,
+          "tk": "TK16",
+          "title": "#US03 Como Administrador o Empleado quiero ver una lista de productos con su cantidad de stock de la sucursal elegida para conocer la situaci├│n del inventario."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/141",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Ejecuci├│n manual ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-140",
+      "number": 140,
+      "tk": "TK87",
+      "title": "#TK87 Ejecuci├│n de casos: TC-SSUC-02, TC-MOV-002, TC-MOV-003 y TC-REG-01",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/140",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Ejecuci├│n manual ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-139",
+      "number": 139,
+      "tk": "TK86",
+      "title": "#TK86 Ejecuci├│n de casos: TC-MOV-001, TC-MOV-006, TC-REG-03 y TC-REG-04",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/139",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Ejecuci├│n manual ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-138",
+      "number": 138,
+      "tk": "TK85",
+      "title": "#TK85 Ejecuci├│n de casos: TC-L-03, TC-L-04, TC-SSUC-01 y TC-STK-01",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-57",
+          "number": 57,
+          "tk": "TK16",
+          "title": "#US03 Como Administrador o Empleado quiero ver una lista de productos con su cantidad de stock de la sucursal elegida para conocer la situaci├│n del inventario."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/138",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Ejecuci├│n manual ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-137",
+      "number": 137,
+      "tk": "TK84",
+      "title": "#TK84 P├ígina Testing.md de la Wiki",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-134",
+          "number": 134,
+          "tk": "TK81",
+          "title": "#TK81 Pipeline de GitHub Actions con JaCoCo y Newman"
+        },
+        {
+          "id": "issue-136",
+          "number": 136,
+          "tk": "TK83",
+          "title": "#TK83 Matriz de Trazabilidad de Requisitos"
+        },
+        {
+          "id": "issue-143",
+          "number": 143,
+          "tk": "TK96",
+          "title": "#TK96 Informe de Accesibilidad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/137",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "4",
+        "sp": 2,
+        "capa": "Documento ┬À **Fase:** 4"
+      }
+    },
+    {
+      "id": "issue-136",
+      "number": 136,
+      "tk": "TK83",
+      "title": "#TK83 Matriz de Trazabilidad de Requisitos",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-135",
+          "number": 135,
+          "tk": "TK82",
+          "title": "#TK82 Planilla de Test Cases con columnas nuevas y trazabilidad a la historia"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/136",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Documento ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-135",
+      "number": 135,
+      "tk": "TK82",
+      "title": "#TK82 Planilla de Test Cases con columnas nuevas y trazabilidad a la historia",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/135",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Documento ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-134",
+      "number": 134,
+      "tk": "TK81",
+      "title": "#TK81 Pipeline de GitHub Actions con JaCoCo y Newman",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/134",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "CI ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-133",
+      "number": 133,
+      "tk": "TK80",
+      "title": "#TK80 Plan de Pruebas",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/133",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Documento ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-132",
+      "number": 132,
+      "tk": "TK79",
+      "title": "#TK79 [ACC-05] Contraste, tama├▒o de texto y errores anunciados",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/132",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "accesibilidad",
+          "color": "#e8d6c6"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Accesibilidad ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-131",
+      "number": 131,
+      "tk": "TK78",
+      "title": "#TK78 [ACC-04] Etiquetas y ├íreas t├íctiles de 48 ├ù 48 dp",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/131",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "accesibilidad",
+          "color": "#e8d6c6"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Accesibilidad ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-130",
+      "number": 130,
+      "tk": "TK77",
+      "title": "#TK77 [ACC-03] TalkBack: un flujo cr├¡tico completo",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/130",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "accesibilidad",
+          "color": "#e8d6c6"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Accesibilidad ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-129",
+      "number": 129,
+      "tk": "TK76",
+      "title": "#TK76 [ACC-02] AccessibilityChecks.enable() en los tests Espresso",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-123",
+          "number": 123,
+          "tk": "TK70",
+          "title": "#TK70 [AUT-UI-01] Espresso: flujo Login ÔåÆ Men├║ con LoginScreen"
+        },
+        {
+          "id": "issue-124",
+          "number": 124,
+          "tk": "TK71",
+          "title": "#TK71 [AUT-UI-02] Espresso: alta de producto como Administrador"
+        },
+        {
+          "id": "issue-125",
+          "number": 125,
+          "tk": "TK72",
+          "title": "#TK72 [AUT-UI-03] Espresso: movimiento con las validaciones de TK26"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/129",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "accesibilidad",
+          "color": "#e8d6c6"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Accesibilidad ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-128",
+      "number": 128,
+      "tk": "TK75",
+      "title": "#TK75 [ACC-01] Auditor├¡a con Accessibility Scanner",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/128",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "accesibilidad",
+          "color": "#e8d6c6"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Accesibilidad ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-127",
+      "number": 127,
+      "tk": "TK74",
+      "title": "#TK74 [AUT-E2E-01] Appium: flujo smoke sobre el APK instalado (deseable)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-97",
+          "number": 97,
+          "tk": "TK44",
+          "title": "#TK44 APK o zip, release en main y pasos de instalaci├│n"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/127",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "4",
+        "sp": 3,
+        "capa": "Test automatizado (Appium) ┬À **Fase:** 4"
+      }
+    },
+    {
+      "id": "issue-126",
+      "number": 126,
+      "tk": "TK73",
+      "title": "#TK73 [AUT-SYS-01] UI Automator: flujo con permiso, o justificaci├│n escrita",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/126",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Test automatizado (UI Automator) ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-125",
+      "number": 125,
+      "tk": "TK72",
+      "title": "#TK72 [AUT-UI-03] Espresso: movimiento con las validaciones de TK26",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/125",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado (Espresso) ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-124",
+      "number": 124,
+      "tk": "TK71",
+      "title": "#TK71 [AUT-UI-02] Espresso: alta de producto como Administrador",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-59",
+          "number": 59,
+          "tk": "TK23",
+          "title": "#US05 Como Administrador quiero cargar un nuevo producto para que est├® disponible en el cat├ílogo."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/124",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado (Espresso) ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-123",
+      "number": 123,
+      "tk": "TK70",
+      "title": "#TK70 [AUT-UI-01] Espresso: flujo Login ÔåÆ Men├║ con LoginScreen",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/123",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado (Espresso) ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-122",
+      "number": 122,
+      "tk": "TK69",
+      "title": "#TK69 [AUT-API-03] Colecci├│n Postman de sucursales, stock, movimientos y contacto",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-66",
+          "number": 66,
+          "tk": "TK43",
+          "title": "[RELEASE] Empaquetado APK, despliegue y video demo del Sprint 2"
+        },
+        {
+          "id": "issue-82",
+          "number": 82,
+          "tk": "TK42",
+          "title": "#TK42 Endpoint de contacto y env├¡o real desde ContactoActivity"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/122",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-121",
+      "number": 121,
+      "tk": "TK68",
+      "title": "#TK68 [AUT-API-02] Colecci├│n Postman de productos",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-66",
+          "number": 66,
+          "tk": "TK43",
+          "title": "[RELEASE] Empaquetado APK, despliegue y video demo del Sprint 2"
+        },
+        {
+          "id": "issue-63",
+          "number": 63,
+          "tk": "TK38",
+          "title": "#US09 Como Administrador quiero editar y eliminar productos para mantener el cat├ílogo libre de datos obsoletos."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/121",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 3,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-120",
+      "number": 120,
+      "tk": "TK67",
+      "title": "#TK67 [AUT-API-01] Colecci├│n Postman de autenticaci├│n",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-66",
+          "number": 66,
+          "tk": "TK43",
+          "title": "[RELEASE] Empaquetado APK, despliegue y video demo del Sprint 2"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/120",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-119",
+      "number": 119,
+      "tk": "TK66",
+      "title": "#TK66 [AUT-NET-03] Integraci├│n de red: timeout y falta de conexi├│n",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/119",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-118",
+      "number": 118,
+      "tk": "TK65",
+      "title": "#TK65 [AUT-NET-02] Integraci├│n de red: errores HTTP",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/118",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-117",
+      "number": 117,
+      "tk": "TK64",
+      "title": "#TK64 [AUT-NET-01] Integraci├│n de red: parseo de respuestas correctas",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-57",
+          "number": 57,
+          "tk": "TK16",
+          "title": "#US03 Como Administrador o Empleado quiero ver una lista de productos con su cantidad de stock de la sucursal elegida para conocer la situaci├│n del inventario."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/117",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-116",
+      "number": 116,
+      "tk": "TK63",
+      "title": "#TK63 [AUT-UNIT-04] Tests unitarios de token, sesi├│n y AuthInterceptor",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/116",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-115",
+      "number": 115,
+      "tk": "TK62",
+      "title": "#TK62 [AUT-UNIT-03] Tests unitarios de repositorios",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-57",
+          "number": 57,
+          "tk": "TK16",
+          "title": "#US03 Como Administrador o Empleado quiero ver una lista de productos con su cantidad de stock de la sucursal elegida para conocer la situaci├│n del inventario."
+        },
+        {
+          "id": "issue-59",
+          "number": 59,
+          "tk": "TK23",
+          "title": "#US05 Como Administrador quiero cargar un nuevo producto para que est├® disponible en el cat├ílogo."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/115",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-114",
+      "number": 114,
+      "tk": "TK61",
+      "title": "#TK61 [AUT-UNIT-02] Tests unitarios de stock bajo umbral y mappers",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-80",
+          "number": 80,
+          "tk": "TK17",
+          "title": "#TK17 Alerta visual de stock bajo el umbral m├¡nimo"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/114",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": "US15",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-113",
+      "number": 113,
+      "tk": "TK60",
+      "title": "#TK60 [AUT-UNIT-01] Tests unitarios de validadores",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/113",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        },
+        {
+          "name": "automatizaci├│n",
+          "color": "#8002af"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Test automatizado ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-112",
+      "number": 112,
+      "tk": "TK59",
+      "title": "#TK59 TC-SEG-05: caso de prueba de seguridad (legislaci├│n y auditor├¡a)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-105",
+          "number": 105,
+          "tk": "TK51",
+          "title": "#TK51 Auditor├¡a: tabla LogAuditoria"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/112",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Caso de prueba ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-111",
+      "number": 111,
+      "tk": "TK58",
+      "title": "#TK58 TC-SEG-04: caso de prueba de seguridad (fuerza bruta)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-105",
+          "number": 105,
+          "tk": "TK51",
+          "title": "#TK51 Auditor├¡a: tabla LogAuditoria"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/111",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Caso de prueba ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-110",
+      "number": 110,
+      "tk": "TK57",
+      "title": "#TK57 TC-SEG-03: caso de prueba de seguridad (autorizaci├│n por rol)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-102",
+          "number": 102,
+          "tk": "TK48",
+          "title": "#TK48 Autorizaci├│n por perfiles (Administrador / Empleado) y men├║ por rol"
+        },
+        {
+          "id": "issue-63",
+          "number": 63,
+          "tk": "TK38",
+          "title": "#US09 Como Administrador quiero editar y eliminar productos para mantener el cat├ílogo libre de datos obsoletos."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/110",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Caso de prueba ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-109",
+      "number": 109,
+      "tk": "TK56",
+      "title": "#TK56 TC-SEG-02: caso de prueba de seguridad (contrase├▒as robustas)",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/109",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Caso de prueba ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-108",
+      "number": 108,
+      "tk": "TK55",
+      "title": "#TK55 TC-SEG-01: caso de prueba de seguridad (autenticaci├│n y sesiones)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-75",
+          "number": 75,
+          "tk": "TK07",
+          "title": "#TK07 Bot├│n Cerrar sesi├│n"
+        },
+        {
+          "id": "issue-103",
+          "number": 103,
+          "tk": "TK49",
+          "title": "#TK49 Control de sesiones: access corto, refresh con rotaci├│n y cierre por inactividad"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/108",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 1,
+        "capa": "Caso de prueba ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-107",
+      "number": 107,
+      "tk": "TK54",
+      "title": "#TK54 Video corto: por qu├® JWT, autenticaci├│n y autorizaci├│n",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-102",
+          "number": 102,
+          "tk": "TK48",
+          "title": "#TK48 Autorizaci├│n por perfiles (Administrador / Empleado) y men├║ por rol"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/107",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 2,
+        "capa": "Docs ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-106",
+      "number": 106,
+      "tk": "TK53",
+      "title": "#TK53 Sistema de Gesti├│n de Riesgos y revisi├│n del plan de seguridad",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/106",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "3",
+        "sp": 4,
+        "capa": "Docs ┬À **Fase:** 3"
+      }
+    },
+    {
+      "id": "issue-105",
+      "number": 105,
+      "tk": "TK51",
+      "title": "#TK51 Auditor├¡a: tabla LogAuditoria",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/105",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        },
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        },
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "1",
+        "sp": 3,
+        "capa": "Backend + DB ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-104",
+      "number": 104,
+      "tk": "TK50",
+      "title": "#TK50 TLS: certificado, redirecci├│n a HTTPS, HSTS y network_security_config",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-66",
+          "number": 66,
+          "tk": "TK43",
+          "title": "[RELEASE] Empaquetado APK, despliegue y video demo del Sprint 2"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/104",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Backend + Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-103",
+      "number": 103,
+      "tk": "TK49",
+      "title": "#TK49 Control de sesiones: access corto, refresh con rotaci├│n y cierre por inactividad",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/103",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Backend + Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-102",
+      "number": 102,
+      "tk": "TK48",
+      "title": "#TK48 Autorizaci├│n por perfiles (Administrador / Empleado) y men├║ por rol",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/102",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        },
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "#a2eeef"
+        },
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "1",
+        "sp": 3,
+        "capa": "Backend + Frontend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-101",
+      "number": 101,
+      "tk": "TK46",
+      "title": "#TK46 CORS, ALLOWED_HOSTS y l├¡mite de intentos de login",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/101",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "1",
+        "sp": 3,
+        "capa": "Backend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-100",
+      "number": 100,
+      "tk": "TK45",
+      "title": "#TK45 Sacar credenciales del script y del README; secretos a .env",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/100",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US14",
+        "area": null,
+        "fase": "1",
+        "sp": 3,
+        "capa": "Backend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-99",
+      "number": 99,
+      "tk": "TK52",
+      "title": "#TK52 Legislaci├│n en la app: t├®rminos, aceptaci├│n y 'Darme de baja'",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/99",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US11",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend + Backend + DB ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-98",
+      "number": 98,
+      "tk": "TK97",
+      "title": "#TK97 Grabar y editar el video demo grupal (m├íx. 3 minutos)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-155",
+          "number": 155,
+          "tk": "TK107",
+          "title": "#TK107 Guion y coordinaci├│n del video demo grupal"
+        },
+        {
+          "id": "issue-66",
+          "number": 66,
+          "tk": "TK43",
+          "title": "[RELEASE] Empaquetado APK, despliegue y video demo del Sprint 2"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/98",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US12",
+        "area": null,
+        "fase": "4",
+        "sp": 2,
+        "capa": "Docs ┬À **Fase:** 4"
+      }
+    },
+    {
+      "id": "issue-97",
+      "number": 97,
+      "tk": "TK44",
+      "title": "#TK44 APK o zip, release en main y pasos de instalaci├│n",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-98",
+          "number": 98,
+          "tk": "TK97",
+          "title": "#TK97 Grabar y editar el video demo grupal (m├íx. 3 minutos)"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/97",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US12",
+        "area": null,
+        "fase": "4",
+        "sp": 2,
+        "capa": "Build + Docs ┬À **Fase:** 4"
+      }
+    },
+    {
+      "id": "issue-96",
+      "number": 96,
+      "tk": "TK43",
+      "title": "#TK43 Deploy del backend y baseUrl de release",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-68",
+          "number": 68,
+          "tk": "TK45",
+          "title": "[RNF-SEG] Hardening de seguridad, protecci├│n de sesiones y datos sensibles"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/96",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US12",
+        "area": null,
+        "fase": "1",
+        "sp": 3,
+        "capa": "Backend + DevOps ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-95",
+      "number": 95,
+      "tk": "TK41",
+      "title": "#TK41 Layouts landscape y tablet, y estado al rotar",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/95",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US11",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-94",
+      "number": 94,
+      "tk": "TK40",
+      "title": "#TK40 Activity multimedia de Ayuda con imagen y/o video",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/94",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US10",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-93",
+      "number": 93,
+      "tk": "TK39",
+      "title": "#TK39 Listado de productos con editar y eliminar",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-63",
+          "number": 63,
+          "tk": "TK38",
+          "title": "#US09 Como Administrador quiero editar y eliminar productos para mantener el cat├ílogo libre de datos obsoletos."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/93",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US09",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-92",
+      "number": 92,
+      "tk": "TK38",
+      "title": "#TK38 API de productos: edici├│n y baja l├│gica",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/92",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US09",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Backend + DB ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-91",
+      "number": 91,
+      "tk": "TK109",
+      "title": "#TK109 Cargar usuario y aprobar registros pendientes (Administrador)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-62",
+          "number": 62,
+          "tk": "TK36",
+          "title": "#US08 Como Administrador quiero cargar, aprobar, listar, editar y dar de baja usuarios para controlar qui├®n accede y con qu├® rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/91",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US08",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Backend + Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-90",
+      "number": 90,
+      "tk": "TK37",
+      "title": "#TK37 Gesti├│n de usuarios: lista, edici├│n y baja con di├ílogo",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        },
+        {
+          "id": "issue-62",
+          "number": 62,
+          "tk": "TK36",
+          "title": "#US08 Como Administrador quiero cargar, aprobar, listar, editar y dar de baja usuarios para controlar qui├®n accede y con qu├® rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/90",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US08",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-89",
+      "number": 89,
+      "tk": "TK36",
+      "title": "#TK36 API de usuarios (listar, editar, baja) solo Administrador",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/89",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US08",
+        "area": null,
+        "fase": "1",
+        "sp": 3,
+        "capa": "Backend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-88",
+      "number": 88,
+      "tk": "TK34",
+      "title": "#TK34 RegistroActivity: layout, validaciones y conexi├│n a la API",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/88",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US07",
+        "area": null,
+        "fase": "2",
+        "sp": 4,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-87",
+      "number": 87,
+      "tk": "TK47",
+      "title": "#TK47 Pol├¡tica de contrase├▒as robustas (servidor y app)",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/87",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US07",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Backend + Frontend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-86",
+      "number": 86,
+      "tk": "TK35",
+      "title": "#TK35 Verificaci├│n de endpoint de registro y pruebas con postman",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/86",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": "US07",
+        "area": null,
+        "fase": "1",
+        "sp": 1,
+        "capa": "Backend + DB ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-85",
+      "number": 85,
+      "tk": "TK27",
+      "title": "#TK27 Movimiento at├│mico real entre sucursales",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/85",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US06",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend + Backend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-84",
+      "number": 84,
+      "tk": "TK93",
+      "title": "#TK93 Corregir defecto visual de errores en Carga de Producto (TC-CP-01)",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/84",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US05",
+        "area": null,
+        "fase": "2",
+        "sp": 1,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-83",
+      "number": 83,
+      "tk": "TK23",
+      "title": "#TK23 Alta de producto contra la API (solo Administrador)",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/83",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US05",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-82",
+      "number": 82,
+      "tk": "TK42",
+      "title": "#TK42 Endpoint de contacto y env├¡o real desde ContactoActivity",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/82",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US04",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Backend + Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-81",
+      "number": 81,
+      "tk": "TK20",
+      "title": "#TK20 Selector de sucursal del formulario de contacto con datos reales",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/81",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US04",
+        "area": null,
+        "fase": "2",
+        "sp": 1,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-80",
+      "number": 80,
+      "tk": "TK17",
+      "title": "#TK17 Alerta visual de stock bajo el umbral m├¡nimo",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-57",
+          "number": 57,
+          "tk": "TK16",
+          "title": "#US03 Como Administrador o Empleado quiero ver una lista de productos con su cantidad de stock de la sucursal elegida para conocer la situaci├│n del inventario."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/80",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US03",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-79",
+      "number": 79,
+      "tk": "TK16",
+      "title": "#TK16 Stock real por sucursal",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/79",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US03",
+        "area": null,
+        "fase": "2",
+        "sp": 3,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-78",
+      "number": 78,
+      "tk": "TK12",
+      "title": "#TK12 Sucursales desde la API",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/78",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US02",
+        "area": null,
+        "fase": "2",
+        "sp": 2,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-77",
+      "number": 77,
+      "tk": "TK92",
+      "title": "#TK92 Corregir defecto visual de errores en Login (TC-L-01)",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/77",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US01",
+        "area": null,
+        "fase": "2",
+        "sp": 1,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-76",
+      "number": 76,
+      "tk": "TK91",
+      "title": "#TK91 SplashActivity: decidir el destino seg├║n la sesi├│n guardada",
+      "state": "OPEN",
+      "status": "BLOCKED",
+      "blockingParents": [
+        {
+          "id": "issue-75",
+          "number": 75,
+          "tk": "TK07",
+          "title": "#TK07 Bot├│n Cerrar sesi├│n"
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/76",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "opcional",
+          "color": "#16e737"
+        }
+      ],
+      "meta": {
+        "historia": "US01",
+        "area": null,
+        "fase": "2",
+        "sp": 1,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-75",
+      "number": 75,
+      "tk": "TK07",
+      "title": "#TK07 Bot├│n Cerrar sesi├│n",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/75",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US01",
+        "area": null,
+        "fase": "2",
+        "sp": 1,
+        "capa": "Frontend ┬À **Fase:** 2"
+      }
+    },
+    {
+      "id": "issue-74",
+      "number": 74,
+      "tk": "TK06",
+      "title": "#TK06 Interceptor HTTP Authorization: Bearer <token>",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/74",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US01",
+        "area": null,
+        "fase": "1",
+        "sp": 1,
+        "capa": "Frontend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-73",
+      "number": 73,
+      "tk": "TK05",
+      "title": "#TK05 Retrofit: login contra la API y guardado del JWT",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [
+        {
+          "id": "issue-55",
+          "number": 55,
+          "tk": "TK90",
+          "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol."
+        }
+      ],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/73",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        },
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": "US01",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Frontend ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-72",
+      "number": 72,
+      "tk": "TK90",
+      "title": "#TK90 Configuraci├│n base de la app para consumir la API",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/72",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "codigo",
+          "color": "#a1b82e"
+        }
+      ],
+      "meta": {
+        "historia": "US01",
+        "area": null,
+        "fase": "1",
+        "sp": 2,
+        "capa": "Frontend / Build ┬À **Fase:** 1"
+      }
+    },
+    {
+      "id": "issue-71",
+      "number": 71,
+      "tk": "TK98",
+      "title": "[MGMT] Documentaci├│n del Sprint 2, registro de ceremonias y actualizaci├│n de Wiki",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/71",
+      "assignees": [
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "gestion",
+          "color": "#b440eb"
+        },
+        {
+          "name": "documentacion",
+          "color": "#2d229f"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-70",
+      "number": 70,
+      "tk": "TK94",
+      "title": "#US12 Como usuario (Administrador o Empleado) quiero ver y editar mis datos personales para mantener mi informaci├│n actualizada.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/70",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-69",
+      "number": 69,
+      "tk": "TK60",
+      "title": "[ENABLER-QA] Suite de pruebas automatizadas, pipeline CI/CD e informe de accesibilidad",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/69",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        },
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        },
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        },
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        },
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "testing",
+          "color": "#f2ae7b"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-68",
+      "number": 68,
+      "tk": "TK45",
+      "title": "[RNF-SEG] Hardening de seguridad, protecci├│n de sesiones y datos sensibles",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/68",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ciberseguridad",
+          "color": "#622163"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-67",
+      "number": 67,
+      "tk": "TK52",
+      "title": "#US11 Como usuario quiero conocer y controlar el uso de mis datos personales para ejercer mis derechos.",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/67",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-66",
+      "number": 66,
+      "tk": "TK43",
+      "title": "[RELEASE] Empaquetado APK, despliegue y video demo del Sprint 2",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/66",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "gestion",
+          "color": "#b440eb"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-65",
+      "number": 65,
+      "tk": "TK102",
+      "title": "[RNF-UX] Dise├▒o adaptable y persistencia de estado ante rotaci├│n",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/65",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ui-ux",
+          "color": "#A2EEEF"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-64",
+      "number": 64,
+      "tk": "TK40",
+      "title": "#US10 Como usuario quiero ver una pantalla de ayuda con una imagen o un video para aprender a usar la app.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/64",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-63",
+      "number": 63,
+      "tk": "TK38",
+      "title": "#US09 Como Administrador quiero editar y eliminar productos para mantener el cat├ílogo libre de datos obsoletos.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/63",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-62",
+      "number": 62,
+      "tk": "TK36",
+      "title": "#US08 Como Administrador quiero cargar, aprobar, listar, editar y dar de baja usuarios para controlar qui├®n accede y con qu├® rol.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/62",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-61",
+      "number": 61,
+      "tk": "TK35",
+      "title": "#US07 Como visitante quiero registrarme con mis datos para solicitar mi cuenta en la app.",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/61",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-60",
+      "number": 60,
+      "tk": "TK27",
+      "title": "#US06 Como Empleado o Administrador quiero registrar un movimiento de stock entre dos sucursales para que la existencia se actualice en ambas.",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/60",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-59",
+      "number": 59,
+      "tk": "TK23",
+      "title": "#US05 Como Administrador quiero cargar un nuevo producto para que est├® disponible en el cat├ílogo.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/59",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-58",
+      "number": 58,
+      "tk": "TK20",
+      "title": "#US04 Como usuario quiero ver una pantalla de contacto para comunicarme con soporte si lo necesito.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/58",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-57",
+      "number": 57,
+      "tk": "TK16",
+      "title": "#US03 Como Administrador o Empleado quiero ver una lista de productos con su cantidad de stock de la sucursal elegida para conocer la situaci├│n del inventario.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/57",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-56",
+      "number": 56,
+      "tk": "TK12",
+      "title": "#US02 Como usuario quiero elegir la sucursal con la que voy a trabajar para que las dem├ís pantallas muestren su informaci├│n.",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/56",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-55",
+      "number": 55,
+      "tk": "TK90",
+      "title": "#US01 Como usuario quiero iniciar sesi├│n y acceder a un men├║ principal para navegar hacia el resto de la app seg├║n mi rol.",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/55",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        },
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "historia de usuario",
+          "color": "#0aa586"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-54",
+      "number": 54,
+      "tk": null,
+      "title": "Informes devoluci├│n Sprint 1 Modulo App Moviles",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/54",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-53",
+      "number": 53,
+      "tk": null,
+      "title": "Informe de Avance Proyecto Integrador ll al 27 de Septiembre de 2026",
+      "state": "OPEN",
+      "status": "UNBLOCKED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/53",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-52",
+      "number": 52,
+      "tk": null,
+      "title": "­ƒöÇ Merge a develop por OctavioArnaudo",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/52",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-50",
+      "number": 50,
+      "tk": "TK29",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/50",
+      "assignees": [],
+      "labels": [
+        {
+          "name": "documentation",
+          "color": "#0075ca"
+        },
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "technical-task",
+          "color": "#FBCA04"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-49",
+      "number": 49,
+      "tk": "TK30",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/49",
+      "assignees": [],
+      "labels": [
+        {
+          "name": "documentation",
+          "color": "#0075ca"
+        },
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "technical-task",
+          "color": "#FBCA04"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-46",
+      "number": 46,
+      "tk": null,
+      "title": "Devoluci├│n Sprint 1 - Equipo TodoStock-AppMovil",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/46",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-45",
+      "number": 45,
+      "tk": null,
+      "title": "Ceremonia - Planning Poker - Evidencia 5 - Sprint 1 (Ev. 2 generadoras).",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/45",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        },
+        {
+          "login": "OctavioArnaudo",
+          "name": "Octavio Arnaudo",
+          "avatarUrl": "https://github.com/OctavioArnaudo.png"
+        },
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        },
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        },
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        },
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Ceremonias",
+          "color": "#8c665f"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-43",
+      "number": 43,
+      "tk": null,
+      "title": "­ƒöÇ Merge a develop por candebar",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/43",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-42",
+      "number": 42,
+      "tk": "TK19",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/42",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-40",
+      "number": 40,
+      "tk": "TK18",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/40",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-38",
+      "number": 38,
+      "tk": "TK22",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/38",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-35",
+      "number": 35,
+      "tk": "TK21",
+      "title": "#US05: Carga de Producto",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/35",
+      "assignees": [
+        {
+          "login": "PedroGonzalez1212",
+          "name": "pedro gonzalez",
+          "avatarUrl": "https://github.com/PedroGonzalez1212.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "High",
+          "color": "#b60205"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-34",
+      "number": 34,
+      "tk": "TK24",
+      "title": "#US04: Movimientos entre Sucursales",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/34",
+      "assignees": [
+        {
+          "login": "AylenBL8",
+          "name": "Ayl├®n Bartolino Luna",
+          "avatarUrl": "https://github.com/AylenBL8.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "High",
+          "color": "#b60205"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-33",
+      "number": 33,
+      "tk": "TK13",
+      "title": "#US03: Gesti├│n de Stock",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/33",
+      "assignees": [
+        {
+          "login": "virginia-garcia",
+          "name": "Virginia Garcia",
+          "avatarUrl": "https://github.com/virginia-garcia.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "High",
+          "color": "#b60205"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-32",
+      "number": 32,
+      "tk": "TK08",
+      "title": "#US02: Selecci├│n de Sucursal",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/32",
+      "assignees": [
+        {
+          "login": "candebar",
+          "name": "Candelaria Barjollo",
+          "avatarUrl": "https://github.com/candebar.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "ui-ux",
+          "color": "#A2EEEF"
+        },
+        {
+          "name": "High",
+          "color": "#b60205"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-31",
+      "number": 31,
+      "tk": "TK01",
+      "title": "#US01: Autenticaci├│n y Men├║ Principal",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/31",
+      "assignees": [
+        {
+          "login": "mikefink22",
+          "name": "Miguel Flores",
+          "avatarUrl": "https://github.com/mikefink22.png"
+        }
+      ],
+      "labels": [
+        {
+          "name": "user-story",
+          "color": "#865d64"
+        },
+        {
+          "name": "security",
+          "color": "#006B75"
+        },
+        {
+          "name": "Urgent",
+          "color": "#8957e5"
+        }
+      ],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-30",
+      "number": 30,
+      "tk": "TK11",
+      "title": "­ƒöÇ Merge a develop por candebar",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/30",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-28",
+      "number": 28,
+      "tk": "TK10",
+      "title": "­ƒöÇ Merge a develop por candebar",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/28",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-26",
+      "number": 26,
+      "tk": "TK14",
+      "title": "­ƒöÇ Merge a develop por virginia-garcia",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/26",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-24",
+      "number": 24,
+      "tk": "TK13",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/24",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-22",
+      "number": 22,
+      "tk": "TK13",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/22",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "issue-20",
+      "number": 20,
+      "tk": "TK33",
+      "title": "­ƒöÇ Merge a develop por mikefink22",
+      "state": "CLOSED",
+      "status": "COMPLETED",
+      "blockingParents": [],
+      "url": "https://github.com/ISPC-WEB-2025/TodoStock-AppMovil/issues/20",
+      "assignees": [],
+      "labels": [],
+      "meta": {
+        "historia": null,
+        "area": null,
+        "fase": null,
+        "sp": null,
+        "capa": null
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-issue-69->issue-211",
+      "source": "issue-69",
+      "target": "issue-211",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-210",
+      "source": "issue-69",
+      "target": "issue-210",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-209",
+      "source": "issue-69",
+      "target": "issue-209",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-208",
+      "source": "issue-69",
+      "target": "issue-208",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-207",
+      "source": "issue-69",
+      "target": "issue-207",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-193->issue-206",
+      "source": "issue-193",
+      "target": "issue-206",
+      "reason": "depends_on_193",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-69->issue-206",
+      "source": "issue-69",
+      "target": "issue-206",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-193->issue-205",
+      "source": "issue-193",
+      "target": "issue-205",
+      "reason": "depends_on_193",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-69->issue-205",
+      "source": "issue-69",
+      "target": "issue-205",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-204",
+      "source": "issue-69",
+      "target": "issue-204",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-203",
+      "source": "issue-69",
+      "target": "issue-203",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-193->issue-202",
+      "source": "issue-193",
+      "target": "issue-202",
+      "reason": "depends_on_193",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-69->issue-202",
+      "source": "issue-69",
+      "target": "issue-202",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-201",
+      "source": "issue-69",
+      "target": "issue-201",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-200",
+      "source": "issue-69",
+      "target": "issue-200",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-69->issue-193",
+      "source": "issue-69",
+      "target": "issue-193",
+      "reason": "depends_on_69",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-193",
+      "source": "issue-73",
+      "target": "issue-193",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-74->issue-193",
+      "source": "issue-74",
+      "target": "issue-193",
+      "reason": "depends_on_TK06",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-193",
+      "source": "issue-55",
+      "target": "issue-193",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-61->issue-170",
+      "source": "issue-61",
+      "target": "issue-170",
+      "reason": "depends_on_TK35",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-68->issue-154",
+      "source": "issue-68",
+      "target": "issue-154",
+      "reason": "depends_on_TK45",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-87->issue-154",
+      "source": "issue-87",
+      "target": "issue-154",
+      "reason": "depends_on_TK47",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-154",
+      "source": "issue-55",
+      "target": "issue-154",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-95->issue-150",
+      "source": "issue-95",
+      "target": "issue-150",
+      "reason": "depends_on_TK41",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-88->issue-150",
+      "source": "issue-88",
+      "target": "issue-150",
+      "reason": "depends_on_TK34",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-64->issue-150",
+      "source": "issue-64",
+      "target": "issue-150",
+      "reason": "depends_on_TK40",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-91->issue-150",
+      "source": "issue-91",
+      "target": "issue-150",
+      "reason": "depends_on_TK109",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-71->issue-147",
+      "source": "issue-71",
+      "target": "issue-147",
+      "reason": "depends_on_TK98",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-145",
+      "source": "issue-55",
+      "target": "issue-145",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-70->issue-145",
+      "source": "issue-70",
+      "target": "issue-145",
+      "reason": "depends_on_TK94",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-128->issue-143",
+      "source": "issue-128",
+      "target": "issue-143",
+      "reason": "depends_on_TK75",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-129->issue-143",
+      "source": "issue-129",
+      "target": "issue-143",
+      "reason": "depends_on_TK76",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-130->issue-143",
+      "source": "issue-130",
+      "target": "issue-143",
+      "reason": "depends_on_TK77",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-131->issue-143",
+      "source": "issue-131",
+      "target": "issue-143",
+      "reason": "depends_on_TK78",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-132->issue-143",
+      "source": "issue-132",
+      "target": "issue-143",
+      "reason": "depends_on_TK79",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-77->issue-142",
+      "source": "issue-77",
+      "target": "issue-142",
+      "reason": "depends_on_TK92",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-84->issue-142",
+      "source": "issue-84",
+      "target": "issue-142",
+      "reason": "depends_on_TK93",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-73->issue-142",
+      "source": "issue-73",
+      "target": "issue-142",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-82->issue-142",
+      "source": "issue-82",
+      "target": "issue-142",
+      "reason": "depends_on_TK42",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-57->issue-141",
+      "source": "issue-57",
+      "target": "issue-141",
+      "reason": "depends_on_TK16",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-60->issue-141",
+      "source": "issue-60",
+      "target": "issue-141",
+      "reason": "depends_on_TK27",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-88->issue-141",
+      "source": "issue-88",
+      "target": "issue-141",
+      "reason": "depends_on_TK34",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-56->issue-140",
+      "source": "issue-56",
+      "target": "issue-140",
+      "reason": "depends_on_TK12",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-60->issue-140",
+      "source": "issue-60",
+      "target": "issue-140",
+      "reason": "depends_on_TK27",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-88->issue-140",
+      "source": "issue-88",
+      "target": "issue-140",
+      "reason": "depends_on_TK34",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-60->issue-139",
+      "source": "issue-60",
+      "target": "issue-139",
+      "reason": "depends_on_TK27",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-88->issue-139",
+      "source": "issue-88",
+      "target": "issue-139",
+      "reason": "depends_on_TK34",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-73->issue-138",
+      "source": "issue-73",
+      "target": "issue-138",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-87->issue-138",
+      "source": "issue-87",
+      "target": "issue-138",
+      "reason": "depends_on_TK47",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-56->issue-138",
+      "source": "issue-56",
+      "target": "issue-138",
+      "reason": "depends_on_TK12",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-57->issue-138",
+      "source": "issue-57",
+      "target": "issue-138",
+      "reason": "depends_on_TK16",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-134->issue-137",
+      "source": "issue-134",
+      "target": "issue-137",
+      "reason": "depends_on_TK81",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-136->issue-137",
+      "source": "issue-136",
+      "target": "issue-137",
+      "reason": "depends_on_TK83",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-143->issue-137",
+      "source": "issue-143",
+      "target": "issue-137",
+      "reason": "depends_on_TK96",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-135->issue-136",
+      "source": "issue-135",
+      "target": "issue-136",
+      "reason": "depends_on_TK82",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-134",
+      "source": "issue-55",
+      "target": "issue-134",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-123->issue-129",
+      "source": "issue-123",
+      "target": "issue-129",
+      "reason": "depends_on_TK70",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-124->issue-129",
+      "source": "issue-124",
+      "target": "issue-129",
+      "reason": "depends_on_TK71",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-125->issue-129",
+      "source": "issue-125",
+      "target": "issue-129",
+      "reason": "depends_on_TK72",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-97->issue-127",
+      "source": "issue-97",
+      "target": "issue-127",
+      "reason": "depends_on_TK44",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-126",
+      "source": "issue-55",
+      "target": "issue-126",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-60->issue-125",
+      "source": "issue-60",
+      "target": "issue-125",
+      "reason": "depends_on_TK27",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-59->issue-124",
+      "source": "issue-59",
+      "target": "issue-124",
+      "reason": "depends_on_TK23",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-123",
+      "source": "issue-73",
+      "target": "issue-123",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-66->issue-122",
+      "source": "issue-66",
+      "target": "issue-122",
+      "reason": "depends_on_TK43",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-82->issue-122",
+      "source": "issue-82",
+      "target": "issue-122",
+      "reason": "depends_on_TK42",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-60->issue-122",
+      "source": "issue-60",
+      "target": "issue-122",
+      "reason": "depends_on_TK27",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-66->issue-121",
+      "source": "issue-66",
+      "target": "issue-121",
+      "reason": "depends_on_TK43",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-63->issue-121",
+      "source": "issue-63",
+      "target": "issue-121",
+      "reason": "depends_on_TK38",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-66->issue-120",
+      "source": "issue-66",
+      "target": "issue-120",
+      "reason": "depends_on_TK43",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-61->issue-120",
+      "source": "issue-61",
+      "target": "issue-120",
+      "reason": "depends_on_TK35",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-119",
+      "source": "issue-55",
+      "target": "issue-119",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-118",
+      "source": "issue-55",
+      "target": "issue-118",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-117",
+      "source": "issue-55",
+      "target": "issue-117",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-56->issue-117",
+      "source": "issue-56",
+      "target": "issue-117",
+      "reason": "depends_on_TK12",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-57->issue-117",
+      "source": "issue-57",
+      "target": "issue-117",
+      "reason": "depends_on_TK16",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-116",
+      "source": "issue-73",
+      "target": "issue-116",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-74->issue-116",
+      "source": "issue-74",
+      "target": "issue-116",
+      "reason": "depends_on_TK06",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-73->issue-115",
+      "source": "issue-73",
+      "target": "issue-115",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-57->issue-115",
+      "source": "issue-57",
+      "target": "issue-115",
+      "reason": "depends_on_TK16",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-59->issue-115",
+      "source": "issue-59",
+      "target": "issue-115",
+      "reason": "depends_on_TK23",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-114",
+      "source": "issue-55",
+      "target": "issue-114",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-80->issue-114",
+      "source": "issue-80",
+      "target": "issue-114",
+      "reason": "depends_on_TK17",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-113",
+      "source": "issue-55",
+      "target": "issue-113",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-88->issue-113",
+      "source": "issue-88",
+      "target": "issue-113",
+      "reason": "depends_on_TK34",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-87->issue-113",
+      "source": "issue-87",
+      "target": "issue-113",
+      "reason": "depends_on_TK47",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-67->issue-112",
+      "source": "issue-67",
+      "target": "issue-112",
+      "reason": "depends_on_TK52",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-105->issue-112",
+      "source": "issue-105",
+      "target": "issue-112",
+      "reason": "depends_on_TK51",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-101->issue-111",
+      "source": "issue-101",
+      "target": "issue-111",
+      "reason": "depends_on_TK46",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-105->issue-111",
+      "source": "issue-105",
+      "target": "issue-111",
+      "reason": "depends_on_TK51",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-102->issue-110",
+      "source": "issue-102",
+      "target": "issue-110",
+      "reason": "depends_on_TK48",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-63->issue-110",
+      "source": "issue-63",
+      "target": "issue-110",
+      "reason": "depends_on_TK38",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-88->issue-109",
+      "source": "issue-88",
+      "target": "issue-109",
+      "reason": "depends_on_TK34",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-87->issue-109",
+      "source": "issue-87",
+      "target": "issue-109",
+      "reason": "depends_on_TK47",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-73->issue-108",
+      "source": "issue-73",
+      "target": "issue-108",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-75->issue-108",
+      "source": "issue-75",
+      "target": "issue-108",
+      "reason": "depends_on_TK07",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-103->issue-108",
+      "source": "issue-103",
+      "target": "issue-108",
+      "reason": "depends_on_TK49",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-107",
+      "source": "issue-73",
+      "target": "issue-107",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-102->issue-107",
+      "source": "issue-102",
+      "target": "issue-107",
+      "reason": "depends_on_TK48",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-66->issue-104",
+      "source": "issue-66",
+      "target": "issue-104",
+      "reason": "depends_on_TK43",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-103",
+      "source": "issue-73",
+      "target": "issue-103",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-74->issue-103",
+      "source": "issue-74",
+      "target": "issue-103",
+      "reason": "depends_on_TK06",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-73->issue-102",
+      "source": "issue-73",
+      "target": "issue-102",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-61->issue-99",
+      "source": "issue-61",
+      "target": "issue-99",
+      "reason": "depends_on_TK35",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-153->issue-99",
+      "source": "issue-153",
+      "target": "issue-99",
+      "reason": "depends_on_TK105",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-155->issue-98",
+      "source": "issue-155",
+      "target": "issue-98",
+      "reason": "depends_on_TK107",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-66->issue-98",
+      "source": "issue-66",
+      "target": "issue-98",
+      "reason": "depends_on_TK43",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-98->issue-97",
+      "source": "issue-98",
+      "target": "issue-97",
+      "reason": "depends_on_TK97",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-96",
+      "source": "issue-55",
+      "target": "issue-96",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-68->issue-96",
+      "source": "issue-68",
+      "target": "issue-96",
+      "reason": "depends_on_TK45",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-95",
+      "source": "issue-55",
+      "target": "issue-95",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-93",
+      "source": "issue-55",
+      "target": "issue-93",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-63->issue-93",
+      "source": "issue-63",
+      "target": "issue-93",
+      "reason": "depends_on_TK38",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-91",
+      "source": "issue-55",
+      "target": "issue-91",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-61->issue-91",
+      "source": "issue-61",
+      "target": "issue-91",
+      "reason": "depends_on_TK35",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-62->issue-91",
+      "source": "issue-62",
+      "target": "issue-91",
+      "reason": "depends_on_TK36",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-90",
+      "source": "issue-55",
+      "target": "issue-90",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-62->issue-90",
+      "source": "issue-62",
+      "target": "issue-90",
+      "reason": "depends_on_TK36",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-88",
+      "source": "issue-55",
+      "target": "issue-88",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-61->issue-88",
+      "source": "issue-61",
+      "target": "issue-88",
+      "reason": "depends_on_TK35",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-87->issue-88",
+      "source": "issue-87",
+      "target": "issue-88",
+      "reason": "depends_on_TK47",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-85",
+      "source": "issue-55",
+      "target": "issue-85",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-83",
+      "source": "issue-55",
+      "target": "issue-83",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-82",
+      "source": "issue-55",
+      "target": "issue-82",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-81",
+      "source": "issue-55",
+      "target": "issue-81",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-57->issue-80",
+      "source": "issue-57",
+      "target": "issue-80",
+      "reason": "depends_on_TK16",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-55->issue-79",
+      "source": "issue-55",
+      "target": "issue-79",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-56->issue-79",
+      "source": "issue-56",
+      "target": "issue-79",
+      "reason": "depends_on_TK12",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-78",
+      "source": "issue-55",
+      "target": "issue-78",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-76",
+      "source": "issue-73",
+      "target": "issue-76",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-75->issue-76",
+      "source": "issue-75",
+      "target": "issue-76",
+      "reason": "depends_on_TK07",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-75",
+      "source": "issue-73",
+      "target": "issue-75",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-74",
+      "source": "issue-55",
+      "target": "issue-74",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    },
+    {
+      "id": "edge-issue-73->issue-74",
+      "source": "issue-73",
+      "target": "issue-74",
+      "reason": "depends_on_TK05",
+      "status": "active",
+      "animated": true
+    },
+    {
+      "id": "edge-issue-55->issue-73",
+      "source": "issue-55",
+      "target": "issue-73",
+      "reason": "depends_on_TK90",
+      "status": "inactive",
+      "animated": false
+    }
+  ]
+}
