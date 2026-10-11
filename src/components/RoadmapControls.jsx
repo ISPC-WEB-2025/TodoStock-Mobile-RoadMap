@@ -16,6 +16,8 @@ import {
   Layers,
   ShieldAlert,
   Flag,
+  BookMarked,
+  BookOpen,
 } from 'lucide-react';
 
 export default function RoadmapControls({
@@ -37,6 +39,9 @@ export default function RoadmapControls({
   onTabChange,
   hideCompleted,
   onToggleHideCompleted,
+  hideUserStories = true,
+  onToggleHideUserStories,
+  userStoriesCount = 0,
   includeBlockers = true,
   onToggleIncludeBlockers,
   independentCount = 0,
@@ -206,6 +211,30 @@ export default function RoadmapControls({
               <>
                 <Eye className="h-3.5 w-3.5 text-slate-400" />
                 <span>Mostrando cerradas ({stats.closed})</span>
+              </>
+            )}
+          </button>
+
+          {/* Toggle para Ocultar / Mostrar Historias de Usuario (US) */}
+          <button
+            type="button"
+            onClick={onToggleHideUserStories}
+            title={hideUserStories ? 'Las Historias de Usuario son requerimientos funcionales y están ocultas para no inflar tareas. Haz clic para verlas.' : 'Ocultar Historias de Usuario (US) para enfocar solo tareas de desarrollo'}
+            className={`flex items-center gap-2 rounded-xl border px-3 py-1.5 text-xs font-medium transition-all ${
+              hideUserStories
+                ? 'border-indigo-600/50 bg-indigo-950/40 text-indigo-300 hover:bg-indigo-950/70 shadow-sm'
+                : 'border-slate-700 bg-slate-800/80 text-slate-300 hover:bg-slate-800'
+            }`}
+          >
+            {hideUserStories ? (
+              <>
+                <BookMarked className="h-3.5 w-3.5 text-indigo-400" />
+                <span>Ocultando US ({userStoriesCount || stats.userStoriesCount || 0})</span>
+              </>
+            ) : (
+              <>
+                <BookOpen className="h-3.5 w-3.5 text-slate-400" />
+                <span>Mostrando US ({userStoriesCount || stats.userStoriesCount || 0})</span>
               </>
             )}
           </button>

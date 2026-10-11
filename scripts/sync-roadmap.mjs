@@ -104,6 +104,9 @@ function parseIssueData(issue) {
     return null;
   }
 
+  // Detectar si es una Historia de Usuario (contenedor funcional de requerimientos)
+  const isUserStory = /^#?US\d+/i.test(title) || (issue.labels || []).some(l => (l.name || '').toLowerCase() === 'historia de usuario');
+
   // Detectar TK estrictamente desde el título para evitar secuestro de identificadores
   let tk = null;
   const titleTkMatch = title.match(/#?(TK0*\d+)/i);
@@ -215,6 +218,7 @@ function parseIssueData(issue) {
     title,
     body,
     state, // 'OPEN' | 'CLOSED'
+    isUserStory: Boolean(isUserStory),
     sprint,
     milestone: issue.milestone ? {
       number: issue.milestone.number,
@@ -365,6 +369,7 @@ async function run() {
       tk: item.tk,
       title: item.title,
       state: item.state,
+      isUserStory: Boolean(item.isUserStory),
       status, // 'COMPLETED' | 'UNBLOCKED' | 'BLOCKED'
       blockingParents,
       url: item.url,

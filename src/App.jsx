@@ -23,7 +23,7 @@ import {
   isSessionAuthenticated,
   clearSessionAuth,
 } from './utils/storage';
-import { CheckCircle2, Play, Lock, Sparkles, ExternalLink, User } from 'lucide-react';
+import { CheckCircle2, Play, Lock, Sparkles, ExternalLink, User, BookOpen } from 'lucide-react';
 
 const nodeTypes = {
   issueNode: IssueNode,
@@ -42,6 +42,7 @@ export default function App() {
   // Estados visuales mejorados
   const [activeTab, setActiveTab] = useState('DAG'); // 'DAG' | 'INDEPENDENT'
   const [hideCompleted, setHideCompleted] = useState(true); // Ocultar cerradas por defecto
+  const [hideUserStories, setHideUserStories] = useState(true); // Excluir Historias de Usuario por defecto
   const [includeBlockers, setIncludeBlockers] = useState(true); // Incluir tareas bloqueantes al filtrar por responsable
   const [collapsedNodes, setCollapsedNodes] = useState(new Set()); // Nodos con ramas plegadas
 
@@ -189,6 +190,11 @@ export default function App() {
       return false;
     }
 
+    // Toggle de Historias de Usuario (excluidas por defecto para enfocar tareas)
+    if (hideUserStories && (node.isUserStory || /^#?US\d+/i.test(node.title))) {
+      return false;
+    }
+
     // Filtro estado
     if (selectedStatus !== 'ALL') {
       if (node.status !== selectedStatus) return false;
@@ -222,7 +228,7 @@ export default function App() {
     }
 
     return true;
-  }, [searchQuery, hideCompleted, selectedSprint, selectedStatus, selectedAssignee, selectedLabel]);
+  }, [searchQuery, hideCompleted, hideUserStories, selectedSprint, selectedStatus, selectedAssignee, selectedLabel]);
 
   // Nodos para el lienzo DAG
   const dagNodes = useMemo(() => {
@@ -292,8 +298,12 @@ export default function App() {
 
   // Conteo total de independientes sin filtros de búsqueda
   const totalIndependentCount = useMemo(() => {
-    return dynamicGraph.nodes.filter((node) => !connectedNodeIds.has(node.id)).length;
-  }, [dynamicGraph.nodes, connectedNodeIds]);
+    return dynamicGraph.nodes.filter((node) => {
+      if (connectedNodeIds.has(node.id)) return false;
+      if (hideUserStories && (node.isUserStory || /^#?US\d+/i.test(node.title))) return false;
+      return true;
+    }).length;
+  }, [dynamicGraph.nodes, connectedNodeIds, hideUserStories]);
 
   // 5. Filtrar aristas del DAG
   const dagNodeIds = useMemo(() => new Set(dagNodes.map((n) => n.id)), [dagNodes]);
@@ -368,6 +378,9 @@ export default function App() {
         onTabChange={setActiveTab}
         hideCompleted={hideCompleted}
         onToggleHideCompleted={() => setHideCompleted((prev) => !prev)}
+        hideUserStories={hideUserStories}
+        onToggleHideUserStories={() => setHideUserStories((prev) => !prev)}
+        userStoriesCount={dynamicGraph.stats.userStoriesCount}
         includeBlockers={includeBlockers}
         onToggleIncludeBlockers={() => setIncludeBlockers((prev) => !prev)}
         independentCount={totalIndependentCount}
@@ -473,6 +486,10 @@ export default function App() {
                           {isCompleted ? (
                             <span className="inline-flex items-center gap-1 rounded-full bg-emerald-950/80 px-2 py-0.5 text-[11px] font-semibold text-emerald-300 border border-emerald-700/50">
                               <CheckCircle2 className="h-3 w-3 text-emerald-400" /> Cerrada
+                            </span>
+                          ) : (task.isUserStory || /^#?US\d+/i.test(task.title)) ? (
+                            <span className="inline-flex items-center gap-1 rounded-full bg-indigo-950/90 px-2 py-0.5 text-[11px] font-medium text-indigo-300 border border-indigo-700/60">
+                              <BookOpen className="h-2.5 w-2.5 text-indigo-400" /> Historia
                             </span>
                           ) : (
                             <span className="inline-flex items-center gap-1 rounded-full bg-cyan-950/90 px-2 py-0.5 text-[11px] font-bold text-cyan-300 border border-cyan-500">

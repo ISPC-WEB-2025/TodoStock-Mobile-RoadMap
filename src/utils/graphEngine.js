@@ -75,14 +75,17 @@ export function recalculateGraph(rawNodes, rawEdges, localOverrides = {}) {
     };
   });
 
-  // 5. Estadísticas dinámicas
+  // 5. Estadísticas dinámicas de tareas operativas
+  // Las Historias de Usuario son contenedores funcionales, no tareas de desarrollo pendientes
+  const taskNodes = evaluatedNodes.filter((n) => !n.isUserStory);
   const stats = {
-    total: evaluatedNodes.length,
-    open: evaluatedNodes.filter((n) => effectiveStateMap.get(n.id) !== 'COMPLETED').length,
-    closed: evaluatedNodes.filter((n) => effectiveStateMap.get(n.id) === 'COMPLETED').length,
-    unblockedReady: evaluatedNodes.filter((n) => n.status === 'UNBLOCKED').length,
-    blocked: evaluatedNodes.filter((n) => n.status === 'BLOCKED').length,
+    total: taskNodes.length,
+    open: taskNodes.filter((n) => effectiveStateMap.get(n.id) !== 'COMPLETED').length,
+    closed: taskNodes.filter((n) => effectiveStateMap.get(n.id) === 'COMPLETED').length,
+    unblockedReady: taskNodes.filter((n) => n.status === 'UNBLOCKED').length,
+    blocked: taskNodes.filter((n) => n.status === 'BLOCKED').length,
     overrideCount: Object.keys(localOverrides).length,
+    userStoriesCount: evaluatedNodes.filter((n) => n.isUserStory).length,
   };
 
   return { nodes: evaluatedNodes, edges: evaluatedEdges, stats };
