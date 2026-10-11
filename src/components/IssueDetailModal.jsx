@@ -11,6 +11,8 @@ import {
   ArrowRight,
   Shield,
   Layers,
+  FlaskConical,
+  AlertTriangle,
 } from 'lucide-react';
 
 export default function IssueDetailModal({
@@ -23,6 +25,11 @@ export default function IssueDetailModal({
   const isCompleted = issue.status === 'COMPLETED';
   const isUnblocked = issue.status === 'UNBLOCKED';
   const isBlocked = issue.status === 'BLOCKED';
+
+  const isTestingTask = 
+    issue.meta?.area?.toLowerCase() === 'testing' ||
+    issue.labels?.some(l => l.name?.toLowerCase().includes('testing') || l.name?.toLowerCase().includes('automatización') || l.name?.toLowerCase().includes('accesibilidad')) ||
+    Boolean(issue.title && (/^\[(AUT|ACC)-/i.test(issue.title) || /ejecución de casos/i.test(issue.title) || /tests? unitarios?/i.test(issue.title) || /plan de pruebas/i.test(issue.title)));
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/75 p-4 backdrop-blur-sm">
@@ -57,6 +64,19 @@ export default function IssueDetailModal({
 
         {/* Content Body */}
         <div className="flex-1 overflow-y-auto p-5 space-y-5">
+          {/* Alerta si es una tarea externa que bloquea al usuario filtrado */}
+          {issue.isExternalBlocker && (
+            <div className="rounded-xl border border-amber-500/70 bg-amber-950/40 p-3.5 text-xs text-amber-200 flex items-start gap-2.5 shadow-sm">
+              <AlertTriangle className="h-4 w-4 text-amber-400 shrink-0 mt-0.5" />
+              <div>
+                <p className="font-bold text-amber-300">Esta tarea está bloqueando tu trabajo:</p>
+                <p className="text-amber-200/90 mt-0.5">
+                  Tu tarea <span className="font-mono font-bold text-white bg-amber-900/80 px-1.5 py-0.5 rounded">{issue.blockingTargets?.join(', ') || 'asignada'}</span> no puede avanzar hasta que esta issue sea finalizada.
+                </p>
+              </div>
+            </div>
+          )}
+
           {/* Status Banner */}
           <div
             className={`flex items-center justify-between rounded-xl p-3.5 border ${
@@ -69,21 +89,29 @@ export default function IssueDetailModal({
           >
             <div className="flex items-center gap-2.5">
               {isCompleted && <CheckCircle2 className="h-5 w-5 text-emerald-400" />}
-              {isUnblocked && <Play className="h-5 w-5 fill-cyan-400 text-cyan-400" />}
+              {isUnblocked && (
+                isTestingTask ? (
+                  <FlaskConical className="h-5 w-5 text-cyan-400" />
+                ) : (
+                  <Play className="h-5 w-5 fill-cyan-400 text-cyan-400" />
+                )
+              )}
               {isBlocked && <Lock className="h-5 w-5 text-slate-400" />}
               <div>
                 <p className="text-xs font-bold uppercase tracking-wider">
                   {isCompleted
                     ? 'Completada / Cerrada'
                     : isUnblocked
-                    ? '¡Desbloqueada y Lista para comenzar!'
+                    ? (isTestingTask ? '¡Desbloqueada y Lista para probar!' : '¡Desbloqueada y Lista para comenzar!')
                     : 'Bloqueada por tareas previas'}
                 </p>
                 <p className="text-xs opacity-80">
                   {isCompleted
                     ? 'Condición cumplida: habilita el avance de las issues siguientes.'
                     : isUnblocked
-                    ? 'Todas las dependencias previas fueron satisfechas.'
+                    ? (isTestingTask
+                        ? 'Los desarrollos y prerrequisitos previos ya están finalizados en el repositorio. La prueba ya puede ejecutarse o diseñarse.'
+                        : 'Todas las dependencias previas fueron satisfechas.')
                     : 'Aguardando que finalicen las tareas bloqueantes.'}
                 </p>
               </div>

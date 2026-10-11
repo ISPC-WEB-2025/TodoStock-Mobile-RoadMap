@@ -14,6 +14,7 @@ import {
   EyeOff,
   GitBranch,
   Layers,
+  ShieldAlert,
 } from 'lucide-react';
 
 export default function RoadmapControls({
@@ -32,6 +33,8 @@ export default function RoadmapControls({
   onTabChange,
   hideCompleted,
   onToggleHideCompleted,
+  includeBlockers = true,
+  onToggleIncludeBlockers,
   independentCount = 0,
   collapsedCount = 0,
   onResetCollapsed,
@@ -161,29 +164,48 @@ export default function RoadmapControls({
           </button>
         </div>
 
-        {/* Toggle para Ocultar / Mostrar Completadas */}
-        <button
-          type="button"
-          onClick={onToggleHideCompleted}
-          title={hideCompleted ? 'Mostrar las tareas cerradas' : 'Ocultar las tareas cerradas para enfocar el trabajo pendiente'}
-          className={`flex items-center gap-2 rounded-xl border px-3 py-1.5 text-xs font-medium transition-all ${
-            hideCompleted
-              ? 'border-emerald-600/50 bg-emerald-950/40 text-emerald-300 hover:bg-emerald-950/70'
-              : 'border-slate-700 bg-slate-800/80 text-slate-300 hover:bg-slate-800'
-          }`}
-        >
-          {hideCompleted ? (
-            <>
-              <EyeOff className="h-3.5 w-3.5 text-emerald-400" />
-              <span>Ocultando cerradas ({stats.closed})</span>
-            </>
-          ) : (
-            <>
-              <Eye className="h-3.5 w-3.5 text-slate-400" />
-              <span>Mostrando cerradas ({stats.closed})</span>
-            </>
+        <div className="flex items-center gap-2">
+          {/* Toggle para Incluir Tareas Bloqueantes de otros */}
+          {selectedAssignee !== 'ALL' && selectedAssignee !== 'UNASSIGNED' && (
+            <button
+              type="button"
+              onClick={onToggleIncludeBlockers}
+              title={includeBlockers ? 'Ocultar las tareas de otros que te bloquean' : 'Mostrar las tareas de otros compañeros que bloquean las tuyas para ver tu camino crítico'}
+              className={`flex items-center gap-2 rounded-xl border px-3 py-1.5 text-xs font-medium transition-all ${
+                includeBlockers
+                  ? 'border-amber-500/60 bg-amber-950/40 text-amber-300 hover:bg-amber-950/70 shadow-sm shadow-amber-950/30'
+                  : 'border-slate-800 bg-slate-900/80 text-slate-400 hover:bg-slate-800 hover:text-slate-200'
+              }`}
+            >
+              <ShieldAlert className="h-3.5 w-3.5 text-amber-400" />
+              <span>{includeBlockers ? 'Viendo bloqueantes directas' : 'Incluir bloqueantes'}</span>
+            </button>
           )}
-        </button>
+
+          {/* Toggle para Ocultar / Mostrar Completadas */}
+          <button
+            type="button"
+            onClick={onToggleHideCompleted}
+            title={hideCompleted ? 'Mostrar las tareas cerradas' : 'Ocultar las tareas cerradas para enfocar el trabajo pendiente'}
+            className={`flex items-center gap-2 rounded-xl border px-3 py-1.5 text-xs font-medium transition-all ${
+              hideCompleted
+                ? 'border-emerald-600/50 bg-emerald-950/40 text-emerald-300 hover:bg-emerald-950/70'
+                : 'border-slate-700 bg-slate-800/80 text-slate-300 hover:bg-slate-800'
+            }`}
+          >
+            {hideCompleted ? (
+              <>
+                <EyeOff className="h-3.5 w-3.5 text-emerald-400" />
+                <span>Ocultando cerradas ({stats.closed})</span>
+              </>
+            ) : (
+              <>
+                <Eye className="h-3.5 w-3.5 text-slate-400" />
+                <span>Mostrando cerradas ({stats.closed})</span>
+              </>
+            )}
+          </button>
+        </div>
       </div>
 
       {/* Fila Inferior: Controles de Búsqueda y Filtros */}

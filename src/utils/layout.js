@@ -1,7 +1,7 @@
 import dagre from 'dagre';
 
-export const NODE_WIDTH = 290;
-export const NODE_HEIGHT = 160;
+export const NODE_WIDTH = 300;
+export const NODE_HEIGHT = 220;
 
 /**
  * Aplica un layout jerárquico DAG inteligente por componentes conexos (Multi-component Packing).
@@ -61,8 +61,8 @@ export function getLayoutedElements(nodes, edges, direction = 'LR') {
     g.setDefaultEdgeLabel(() => ({}));
     g.setGraph({
       rankdir: direction,
-      nodesep: 45,
-      ranksep: 90,
+      nodesep: 65,
+      ranksep: 120,
       align: 'UL',
     });
 
@@ -114,9 +114,9 @@ export function getLayoutedElements(nodes, edges, direction = 'LR') {
   laidOutConnected.sort((a, b) => b.nodeIds.length - a.nodeIds.length);
 
   // 4. Empaquetado bidimensional 2D (Shelf Bin Packing) de los árboles
-  const MAX_ROW_WIDTH = 3400; // Ancho objetivo para visión panorámica tipo 16:9
-  const COL_GAP = 120;
-  const ROW_GAP = 100;
+  const MAX_ROW_WIDTH = 3600; // Ancho objetivo para visión panorámica tipo 16:9
+  const COL_GAP = 140;
+  const ROW_GAP = 120;
 
   let currentX = 0;
   let currentY = 0;
@@ -152,8 +152,8 @@ export function getLayoutedElements(nodes, edges, direction = 'LR') {
       currentY += rowMaxHeight + ROW_GAP * 1.5;
     }
     const GRID_COLS = 4;
-    const GRID_GAP_X = 35;
-    const GRID_GAP_Y = 35;
+    const GRID_GAP_X = 50;
+    const GRID_GAP_Y = 50;
 
     isolatedComps.forEach((comp, idx) => {
       const id = comp[0];

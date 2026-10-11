@@ -41,6 +41,7 @@ export default function App() {
   // Estados visuales mejorados
   const [activeTab, setActiveTab] = useState('DAG'); // 'DAG' | 'INDEPENDENT'
   const [hideCompleted, setHideCompleted] = useState(true); // Ocultar cerradas por defecto
+  const [includeBlockers, setIncludeBlockers] = useState(true); // Incluir tareas bloqueantes al filtrar por responsable
   const [collapsedNodes, setCollapsedNodes] = useState(new Set()); // Nodos con ramas plegadas
 
   const reactFlowInstanceRef = useRef(null);
@@ -192,14 +193,61 @@ export default function App() {
 
   // Nodos para el lienzo DAG
   const dagNodes = useMemo(() => {
-    return dynamicGraph.nodes.filter((node) => {
+    // 1. Nodos base que coinciden con los filtros
+    const baseNodes = dynamicGraph.nodes.filter((node) => {
       // Debe formar parte de una cadena de dependencias
       if (!connectedNodeIds.has(node.id)) return false;
       // No debe estar oculto por una rama colapsada
       if (hiddenByCollapseIds.has(node.id)) return false;
       return filterNodeFn(node);
     });
-  }, [dynamicGraph.nodes, connectedNodeIds, hiddenByCollapseIds, filterNodeFn]);
+
+    // 2. Si se filtra por un responsable y está activo includeBlockers:
+    // Buscar los nodos padres que bloquean directamente a las tareas del usuario
+    if (selectedAssignee !== 'ALL' && includeBlockers) {
+      const baseNodeIds = new Set(baseNodes.map((n) => n.id));
+      const blockerNodesMap = new Map(); // parentId -> nodeObj con meta
+
+      dynamicGraph.edges.forEach((edge) => {
+        if (baseNodeIds.has(edge.target)) {
+          const targetNode = baseNodes.find((n) => n.id === edge.target);
+          const parentNode = dynamicGraph.nodes.find((n) => n.id === edge.source);
+
+          if (parentNode && !baseNodeIds.has(parentNode.id)) {
+            // Si hideCompleted está activo, solo incluir padres abiertos/bloqueantes
+            if (!hideCompleted || parentNode.status !== 'COMPLETED') {
+              const targetLabel = targetNode?.tk || `#${targetNode?.number}`;
+              if (!blockerNodesMap.has(parentNode.id)) {
+                blockerNodesMap.set(parentNode.id, {
+                  ...parentNode,
+                  isExternalBlocker: true,
+                  blockingTargets: [targetLabel],
+                });
+              } else {
+                const existing = blockerNodesMap.get(parentNode.id);
+                if (!existing.blockingTargets.includes(targetLabel)) {
+                  existing.blockingTargets.push(targetLabel);
+                }
+              }
+            }
+          }
+        }
+      });
+
+      return [...baseNodes, ...Array.from(blockerNodesMap.values())];
+    }
+
+    return baseNodes;
+  }, [
+    dynamicGraph.nodes,
+    dynamicGraph.edges,
+    connectedNodeIds,
+    hiddenByCollapseIds,
+    filterNodeFn,
+    selectedAssignee,
+    includeBlockers,
+    hideCompleted,
+  ]);
 
   // Nodos para la pestaña de Tareas Independientes
   const independentNodes = useMemo(() => {
@@ -278,6 +326,8 @@ export default function App() {
         onTabChange={setActiveTab}
         hideCompleted={hideCompleted}
         onToggleHideCompleted={() => setHideCompleted((prev) => !prev)}
+        includeBlockers={includeBlockers}
+        onToggleIncludeBlockers={() => setIncludeBlockers((prev) => !prev)}
         independentCount={totalIndependentCount}
         collapsedCount={collapsedNodes.size}
         onResetCollapsed={handleResetCollapsed}

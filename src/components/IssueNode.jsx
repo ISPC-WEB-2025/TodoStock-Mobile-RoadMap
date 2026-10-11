@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 import { Handle, Position } from '@xyflow/react';
-import { CheckCircle2, Lock, Play, ExternalLink, User, Sparkles, Layers } from 'lucide-react';
+import { CheckCircle2, Lock, Play, ExternalLink, User, Sparkles, Layers, FlaskConical, AlertTriangle } from 'lucide-react';
 
 const IssueNode = ({ data, selected }) => {
   const {
@@ -22,12 +22,21 @@ const IssueNode = ({ data, selected }) => {
   const isUnblocked = status === 'UNBLOCKED';
   const isBlocked = status === 'BLOCKED';
 
+  const isTestingTask = 
+    meta?.area?.toLowerCase() === 'testing' ||
+    labels?.some(l => l.name?.toLowerCase().includes('testing') || l.name?.toLowerCase().includes('automatización') || l.name?.toLowerCase().includes('accesibilidad')) ||
+    Boolean(title && (/^\[(AUT|ACC)-/i.test(title) || /ejecución de casos/i.test(title) || /tests? unitarios?/i.test(title) || /plan de pruebas/i.test(title)));
+
   // Estilos según el estado
   let borderClass = 'border-slate-800';
   let bgClass = 'bg-slate-900/80';
   let glowClass = '';
 
-  if (isCompleted) {
+  if (data.isExternalBlocker) {
+    borderClass = 'border-amber-500/80 ring-2 ring-amber-500/40';
+    bgClass = 'bg-slate-950/95';
+    glowClass = 'shadow-lg shadow-amber-950/50';
+  } else if (isCompleted) {
     borderClass = 'border-emerald-500/70';
     bgClass = 'bg-emerald-950/20';
     glowClass = 'shadow-md shadow-emerald-950/40';
@@ -58,6 +67,19 @@ const IssueNode = ({ data, selected }) => {
         className="!h-3 !w-3 !border-2 !border-slate-900 !bg-slate-400 transition-colors group-hover:!bg-cyan-400"
       />
 
+      {/* Banner si es una tarea externa que bloquea al usuario filtrado */}
+      {data.isExternalBlocker && (
+        <div className="mb-2.5 flex items-center justify-between gap-1 rounded-md bg-amber-950/90 px-2 py-1 text-[10px] font-semibold text-amber-300 border border-amber-600/70 shadow-sm animate-pulse">
+          <span className="flex items-center gap-1">
+            <AlertTriangle className="h-3 w-3 text-amber-400 shrink-0" />
+            Bloquea a tu tarea:
+          </span>
+          <span className="font-mono text-white bg-amber-900/80 px-1 py-0.2 rounded font-bold">
+            {data.blockingTargets?.join(', ') || 'Tu tarea'}
+          </span>
+        </div>
+      )}
+
       {/* Header: TK / #Issue + Estado */}
       <div className="flex items-center justify-between gap-1.5 pb-2 border-b border-slate-800/60">
         <div className="flex items-center gap-1.5 overflow-hidden">
@@ -86,8 +108,19 @@ const IssueNode = ({ data, selected }) => {
           </span>
         )}
         {isUnblocked && (
-          <span className="inline-flex items-center gap-1 rounded-full bg-cyan-950/90 px-2 py-0.5 text-[11px] font-bold text-cyan-300 border border-cyan-500 animate-pulse">
-            <Play className="h-2.5 w-2.5 fill-cyan-400 text-cyan-400" /> ¡Lista!
+          <span
+            title={isTestingTask ? 'Desbloqueada: Los desarrollos previos ya están completados. Lista para ejecutar o diseñar la prueba.' : 'Desbloqueada: Lista para tomar.'}
+            className="inline-flex items-center gap-1 rounded-full bg-cyan-950/90 px-2 py-0.5 text-[11px] font-bold text-cyan-300 border border-cyan-500 animate-pulse"
+          >
+            {isTestingTask ? (
+              <>
+                <FlaskConical className="h-2.5 w-2.5 text-cyan-400" /> ¡Para probar!
+              </>
+            ) : (
+              <>
+                <Play className="h-2.5 w-2.5 fill-cyan-400 text-cyan-400" /> ¡Lista!
+              </>
+            )}
           </span>
         )}
         {isBlocked && (
