@@ -152,6 +152,11 @@ const IssueNode = ({ data, selected }) => {
 
       {/* Meta tags & Labels */}
       <div className="mt-2.5 flex flex-wrap items-center gap-1">
+        {(data.sprint || data.milestone?.title) && (
+          <span className="rounded bg-slate-800/80 px-1.5 py-0.5 text-[10px] font-semibold text-cyan-300/90 border border-slate-700/60">
+            🎯 {data.sprint || data.milestone?.title}
+          </span>
+        )}
         {meta.enabler && (
           <span className="rounded bg-indigo-950/90 px-1.5 py-0.5 text-[10px] font-semibold text-indigo-300 border border-indigo-800/60">
             {meta.enabler}

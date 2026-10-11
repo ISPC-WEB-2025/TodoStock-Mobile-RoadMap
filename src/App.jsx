@@ -33,6 +33,7 @@ export default function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(() => isSessionAuthenticated());
   const [localOverrides, setLocalOverrides] = useState(() => getLocalOverrides());
   const [searchQuery, setSearchQuery] = useState('');
+  const [selectedSprint, setSelectedSprint] = useState('ALL');
   const [selectedStatus, setSelectedStatus] = useState('ALL');
   const [selectedAssignee, setSelectedAssignee] = useState('ALL');
   const [selectedLabel, setSelectedLabel] = useState('ALL');
@@ -84,6 +85,18 @@ export default function App() {
       });
     });
     return Array.from(map.values()).sort((a, b) => a.name.localeCompare(b.name));
+  }, []);
+
+  const sprintsList = useMemo(() => {
+    const set = new Set();
+    initialRoadmapData.nodes.forEach((n) => {
+      if (n.sprint) set.add(n.sprint);
+      else if (n.milestone?.title) set.add(n.milestone.title);
+    });
+    set.add('Sprint 1');
+    set.add('Sprint 2');
+    set.add('Sprint 3');
+    return Array.from(set).sort();
   }, []);
 
   // 3. Handlers para simulación local
@@ -182,6 +195,12 @@ export default function App() {
       }
     }
 
+    // Filtro Sprint
+    if (selectedSprint !== 'ALL') {
+      const nodeSprint = node.sprint || node.milestone?.title;
+      if (nodeSprint !== selectedSprint) return false;
+    }
+
     // Filtro etiqueta
     if (selectedLabel !== 'ALL') {
       const hasLabel = node.labels?.some((l) => l.name === selectedLabel);
@@ -189,7 +208,7 @@ export default function App() {
     }
 
     return true;
-  }, [searchQuery, hideCompleted, selectedStatus, selectedAssignee, selectedLabel]);
+  }, [searchQuery, hideCompleted, selectedSprint, selectedStatus, selectedAssignee, selectedLabel]);
 
   // Nodos para el lienzo DAG
   const dagNodes = useMemo(() => {
@@ -313,6 +332,9 @@ export default function App() {
       <RoadmapControls
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
+        selectedSprint={selectedSprint}
+        onSprintChange={setSelectedSprint}
+        sprintsList={sprintsList}
         selectedAssignee={selectedAssignee}
         onAssigneeChange={setSelectedAssignee}
         assigneesList={assigneesList}

@@ -15,11 +15,15 @@ import {
   GitBranch,
   Layers,
   ShieldAlert,
+  Flag,
 } from 'lucide-react';
 
 export default function RoadmapControls({
   searchQuery,
   onSearchChange,
+  selectedSprint = 'ALL',
+  onSprintChange,
+  sprintsList = [],
   selectedAssignee,
   onAssigneeChange,
   assigneesList,
@@ -209,7 +213,7 @@ export default function RoadmapControls({
       </div>
 
       {/* Fila Inferior: Controles de Búsqueda y Filtros */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5 pt-0.5">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-2.5 pt-0.5">
         {/* Buscador */}
         <div className="relative">
           <Search className="absolute left-3 top-2.5 h-3.5 w-3.5 text-slate-500" />
@@ -220,6 +224,23 @@ export default function RoadmapControls({
             placeholder="Buscar por #issue, TK o título..."
             className="w-full rounded-xl border border-slate-800 bg-slate-950/80 pl-9 pr-3 py-1.5 text-xs text-white placeholder-slate-500 transition-colors focus:border-cyan-500 focus:outline-none focus:ring-1 focus:ring-cyan-500"
           />
+        </div>
+
+        {/* Filtro por Sprint / Milestone */}
+        <div className="relative">
+          <Flag className="absolute left-3 top-2.5 h-3.5 w-3.5 text-slate-500" />
+          <select
+            value={selectedSprint}
+            onChange={(e) => onSprintChange(e.target.value)}
+            className="w-full appearance-none rounded-xl border border-slate-800 bg-slate-950/80 pl-9 pr-8 py-1.5 text-xs text-white transition-colors focus:border-cyan-500 focus:outline-none focus:ring-1 focus:ring-cyan-500"
+          >
+            <option value="ALL">🎯 Todos los Sprints</option>
+            {sprintsList.map((s) => (
+              <option key={s} value={s}>
+                {s === 'Sprint 2' ? 'Sprint 2 (Actual)' : s}
+              </option>
+            ))}
+          </select>
         </div>
 
         {/* Filtro por Estado */}

@@ -5,7 +5,7 @@
     "closed": 41,
     "unblockedReady": 56,
     "blocked": 34,
-    "lastUpdated": "2026-10-11T03:05:54.535Z"
+    "lastUpdated": "2026-10-11T06:55:25.014Z"
   },
   "nodes": [
     {
@@ -41,6 +41,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -79,6 +83,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -117,6 +125,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -155,6 +167,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -193,6 +209,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -231,6 +251,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -269,6 +293,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -307,6 +335,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -338,6 +370,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -369,6 +405,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -407,6 +447,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -438,6 +482,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -469,6 +517,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -500,6 +552,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -531,6 +587,10 @@
         "sp": 1,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -566,6 +626,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -597,6 +661,10 @@
         "sp": 1,
         "capa": "API externa (Postman)",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -632,6 +700,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -667,6 +739,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -711,6 +787,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -742,6 +822,10 @@
         "sp": 1,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -773,6 +857,10 @@
         "sp": 1,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -804,6 +892,10 @@
         "sp": 2,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -835,6 +927,10 @@
         "sp": 2,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -866,6 +962,10 @@
         "sp": 1,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -897,6 +997,10 @@
         "sp": 2,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -947,6 +1051,10 @@
         "sp": 2,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -978,6 +1086,10 @@
         "sp": 2,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1009,6 +1121,10 @@
         "sp": 3,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1040,6 +1156,10 @@
         "sp": 1,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1071,6 +1191,10 @@
         "sp": 2,
         "capa": "Documento / gestión",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1106,6 +1230,10 @@
         "sp": 3,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1141,6 +1269,10 @@
         "sp": 2,
         "capa": "Backend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1207,6 +1339,10 @@
         "sp": 2,
         "capa": "Documento",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1251,6 +1387,10 @@
         "sp": 2,
         "capa": "Ejecución manual",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1282,6 +1422,10 @@
         "sp": 2,
         "capa": "Ejecución manual",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1313,6 +1457,10 @@
         "sp": 2,
         "capa": "Ejecución manual",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1344,6 +1492,10 @@
         "sp": 2,
         "capa": "Ejecución manual",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1375,6 +1527,10 @@
         "sp": 2,
         "capa": "Ejecución manual",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1425,6 +1581,10 @@
         "sp": 2,
         "capa": "Documento",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1467,6 +1627,10 @@
         "sp": 2,
         "capa": "Documento",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1498,6 +1662,10 @@
         "sp": 2,
         "capa": "Documento",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1533,6 +1701,10 @@
         "sp": 3,
         "capa": "CI",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1564,6 +1736,10 @@
         "sp": 3,
         "capa": "Documento",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1603,6 +1779,10 @@
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1642,6 +1822,10 @@
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1681,6 +1865,10 @@
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1735,6 +1923,10 @@
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1770,6 +1962,10 @@
         "sp": 2,
         "capa": "Accesibilidad",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1816,6 +2012,10 @@
         "sp": 3,
         "capa": "Test automatizado (Appium)",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1855,6 +2055,10 @@
         "sp": 1,
         "capa": "Test automatizado (UI Automator)",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1894,6 +2098,10 @@
         "sp": 2,
         "capa": "Test automatizado (Espresso)",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1940,6 +2148,10 @@
         "sp": 2,
         "capa": "Test automatizado (Espresso)",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -1975,6 +2187,10 @@
         "sp": 2,
         "capa": "Test automatizado (Espresso)",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2027,6 +2243,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2079,6 +2299,10 @@
         "sp": 3,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2125,6 +2349,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2164,6 +2392,10 @@
         "sp": 1,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2199,6 +2431,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2234,6 +2470,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2273,6 +2513,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2315,6 +2559,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2357,6 +2605,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2392,6 +2644,10 @@
         "sp": 2,
         "capa": "Test automatizado",
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2430,6 +2686,10 @@
         "sp": 1,
         "capa": "Caso de prueba",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2468,6 +2728,10 @@
         "sp": 1,
         "capa": "Caso de prueba",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2512,6 +2776,10 @@
         "sp": 1,
         "capa": "Caso de prueba",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2543,6 +2811,10 @@
         "sp": 1,
         "capa": "Caso de prueba",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2587,6 +2859,10 @@
         "sp": 1,
         "capa": "Caso de prueba",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2625,6 +2901,10 @@
         "sp": 2,
         "capa": "Docs",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2656,6 +2936,10 @@
         "sp": 4,
         "capa": "Docs",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2696,6 +2980,10 @@
         "sp": 3,
         "capa": "Backend + DB",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2734,6 +3022,10 @@
         "sp": 2,
         "capa": "Backend + Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2765,6 +3057,10 @@
         "sp": 2,
         "capa": "Backend + Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2805,6 +3101,10 @@
         "sp": 3,
         "capa": "Backend + Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2836,6 +3136,10 @@
         "sp": 3,
         "capa": "Backend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2867,6 +3171,10 @@
         "sp": 3,
         "capa": "Backend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2898,6 +3206,10 @@
         "sp": 3,
         "capa": "Frontend + Backend + DB",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2942,6 +3254,10 @@
         "sp": 2,
         "capa": "Docs",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -2980,6 +3296,10 @@
         "sp": 2,
         "capa": "Build + Docs",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3011,6 +3331,10 @@
         "sp": 3,
         "capa": "Backend + DevOps",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3042,6 +3366,10 @@
         "sp": 3,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3073,6 +3401,10 @@
         "sp": 2,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3111,6 +3443,10 @@
         "sp": 3,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3142,6 +3478,10 @@
         "sp": 2,
         "capa": "Backend + DB",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3180,6 +3520,10 @@
         "sp": 3,
         "capa": "Backend + Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3218,6 +3562,10 @@
         "sp": 3,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3249,6 +3597,10 @@
         "sp": 3,
         "capa": "Backend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3280,6 +3632,10 @@
         "sp": 4,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3311,6 +3667,10 @@
         "sp": 2,
         "capa": "Backend + Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3346,6 +3706,10 @@
         "sp": 1,
         "capa": "Backend + DB",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3377,6 +3741,10 @@
         "sp": 3,
         "capa": "Frontend + Backend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3408,6 +3776,10 @@
         "sp": 1,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3439,6 +3811,10 @@
         "sp": 2,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3470,6 +3846,10 @@
         "sp": 2,
         "capa": "Backend + Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3505,6 +3885,10 @@
         "sp": 1,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3536,6 +3920,10 @@
         "sp": 2,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3567,6 +3955,10 @@
         "sp": 3,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3598,6 +3990,10 @@
         "sp": 2,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3629,6 +4025,10 @@
         "sp": 1,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3671,6 +4071,10 @@
         "sp": 1,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3702,6 +4106,10 @@
         "sp": 1,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3737,6 +4145,10 @@
         "sp": 1,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3772,6 +4184,10 @@
         "sp": 2,
         "capa": "Frontend",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3803,6 +4219,10 @@
         "sp": 2,
         "capa": "Frontend / Build",
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3838,6 +4258,10 @@
         "sp": null,
         "capa": null,
         "enabler": "[MGMT]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3869,6 +4293,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3939,6 +4367,10 @@
         "sp": null,
         "capa": null,
         "enabler": "[ENABLER-QA]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -3970,6 +4402,10 @@
         "sp": null,
         "capa": null,
         "enabler": "[RNF-SEG]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4001,6 +4437,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4032,6 +4472,10 @@
         "sp": null,
         "capa": null,
         "enabler": "[RELEASE]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4063,6 +4507,10 @@
         "sp": null,
         "capa": null,
         "enabler": "[RNF-UX]"
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4094,6 +4542,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4125,6 +4577,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4156,6 +4612,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4187,6 +4647,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4218,6 +4682,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4249,6 +4717,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4280,6 +4752,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4311,6 +4787,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4342,6 +4822,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4378,6 +4862,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 2",
+      "milestone": {
+        "title": "Sprint 2"
       }
     },
     {
@@ -4398,6 +4886,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4418,6 +4910,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4438,6 +4934,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4494,6 +4994,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4529,6 +5033,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4564,6 +5072,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4599,6 +5111,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4638,6 +5154,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     },
     {
@@ -4677,6 +5197,10 @@
         "sp": null,
         "capa": null,
         "enabler": null
+      },
+      "sprint": "Sprint 1",
+      "milestone": {
+        "title": "Sprint 1"
       }
     }
   ],

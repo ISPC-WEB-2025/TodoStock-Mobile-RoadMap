@@ -178,6 +178,9 @@ export default function IssueDetailModal({
             <div className="rounded-xl border border-slate-800 bg-slate-950/40 p-3">
               <span className="text-slate-400 block mb-1">Metadatos estructurados:</span>
               <div className="space-y-0.5 text-slate-300">
+                {(issue.sprint || issue.milestone?.title) && (
+                  <div>Sprint: <span className="font-semibold text-cyan-300">🎯 {issue.sprint || issue.milestone?.title}</span></div>
+                )}
                 {issue.meta?.historia && <div>Historia: <span className="font-semibold text-white">{issue.meta.historia}</span></div>}
                 {issue.meta?.area && <div>Área: <span className="font-semibold text-white">{issue.meta.area}</span></div>}
                 {issue.meta?.sp && <div>Story Points: <span className="font-semibold text-white">{issue.meta.sp}</span></div>}

@@ -24,7 +24,7 @@ async function fetchIssues() {
   try {
     console.log(`📡 Consultando issues de ${REPO} mediante GitHub CLI (gh)...`);
     const stdout = execSync(
-      `gh issue list --repo ${REPO} --limit 300 --state all --json number,title,state,body,assignees,labels,url,updatedAt`,
+      `gh issue list --repo ${REPO} --limit 300 --state all --json number,title,state,body,assignees,labels,url,updatedAt,milestone`,
       { encoding: 'utf8', maxBuffer: 15 * 1024 * 1024 }
     );
     const clean = stdout.replace(/^\uFEFF/, '').trim();
@@ -177,6 +177,30 @@ function parseIssueData(issue) {
     }
   }
 
+  // Detectar Sprint / Milestone
+  let sprint = null;
+  if (issue.milestone && issue.milestone.title) {
+    sprint = issue.milestone.title;
+  } else {
+    for (const l of issue.labels || []) {
+      const lm = (l.name || '').match(/sprint\s*(\d+)/i);
+      if (lm) {
+        sprint = `Sprint ${lm[1]}`;
+        break;
+      }
+    }
+  }
+
+  if (!sprint) {
+    if (number <= 54 || /devolución sprint 1|sprint 1/i.test(title)) {
+      sprint = 'Sprint 1';
+    } else if (/sprint\s*3/i.test(title) || /sprint\s*3/i.test(body)) {
+      sprint = 'Sprint 3';
+    } else {
+      sprint = 'Sprint 2';
+    }
+  }
+
   return {
     id: `issue-${number}`,
     number,
@@ -184,6 +208,11 @@ function parseIssueData(issue) {
     title,
     body,
     state, // 'OPEN' | 'CLOSED'
+    sprint,
+    milestone: issue.milestone ? {
+      number: issue.milestone.number,
+      title: issue.milestone.title,
+    } : { title: sprint },
     url: issue.url || `https://github.com/${REPO}/issues/${number}`,
     assignees: (issue.assignees || []).map(a => ({
       login: a.login,
@@ -334,7 +363,9 @@ async function run() {
       url: item.url,
       assignees: item.assignees,
       labels: item.labels,
-      meta: item.meta
+      meta: item.meta,
+      sprint: item.sprint,
+      milestone: item.milestone
     };
   });
 
